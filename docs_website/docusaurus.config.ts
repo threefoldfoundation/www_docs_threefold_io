@@ -111,7 +111,7 @@ const config: Config = {
           items: [
             {
               label: 'ThreeFold.io',
-              to: 'https://threefold.io',
+              href: 'https://threefold.io',
             },
             {
               label: 'GitHub',
