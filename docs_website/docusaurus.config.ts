@@ -81,11 +81,23 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          title: 'References',
+          title: 'Website',
           items: [
             {
               label: 'Litepaper',
-              to: '/docs/references/litepaper',
+              to: '/docs/litepaper',
+            },
+            {
+              label: 'Guides',
+              to: '/docs/category/guides',
+            },
+            {
+              label: 'References',
+              to: '/docs/category/references',
+            },
+            {
+              label: 'Legal',
+              to: '/docs/category/legal',
             },
           ],
         },
@@ -93,16 +105,16 @@ const config: Config = {
           title: 'Community',
           items: [
             {
-              label: 'X',
-              href: 'https://x.com/threefold_io',
+              label: 'Forum',
+              href: 'https://forum.threefold.io',
             },
             {
               label: 'Telegram',
               href: 'https://t.me/threefold',
             },
             {
-              label: 'Forum',
-              href: 'https://forum.threefold.io',
+              label: 'X',
+              href: 'https://x.com/threefold_io',
             },
           ],
         },
