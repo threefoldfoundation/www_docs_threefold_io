@@ -20,7 +20,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/litepaper">
-            Learn and Explore the TFGrid
+            Explore the ThreeFold Grid
           </Link>
         </div>
       </div>
@@ -32,8 +32,8 @@ export default function Home(): JSX.Element {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`${siteConfig.title}`}
-      description="Everything About ThreeFold">
+      title={`Home`}
+      description="Decentralized Autonomous Cloud">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

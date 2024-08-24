@@ -4,7 +4,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'ThreeFold Docs',
-  tagline: 'Everything ThreeFold',
+  tagline: 'Decentralized Autonomous Cloud',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -60,10 +60,15 @@ const config: Config = {
   ],
 
   themeConfig: {
+    colorMode: {
+      defaultMode: 'light',
+      disableSwitch: true,
+      respectPrefersColorScheme: false,
+    },
     // Replace with your project's social card
     image: 'img/threefold-social-card.png',
     navbar: {
-      title: 'ThreeFold Docs',
+      title: 'ThreeFold',
       logo: {
         alt: 'ThreeFold Logo',
         src: 'img/logo.svg',
@@ -75,13 +80,18 @@ const config: Config = {
           position: 'left',
           label: 'Docs',
         },
+        {
+          to: '/support',
+          label: 'Support',
+          position: 'left',
+        },
       ],
     },
     footer: {
       style: 'dark',
       links: [
         {
-          title: 'Website',
+          title: 'Docs',
           items: [
             {
               label: 'Litepaper',
@@ -119,7 +129,7 @@ const config: Config = {
           ],
         },
         {
-          title: 'More',
+          title: 'Links',
           items: [
             {
               label: 'ThreeFold.io',
