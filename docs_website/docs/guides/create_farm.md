@@ -18,6 +18,6 @@ Follow those steps to create a farm:
 
 ## Farm ID
 
-Take note of the farm ID, it will be requested when you order your INCA nodes. 
+Take note of the farm ID, it will be requested when you order your ThreeFold nodes. 
 
 Read more in the next section.
