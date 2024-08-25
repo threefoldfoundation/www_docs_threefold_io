@@ -85,6 +85,11 @@ const config: Config = {
           label: 'Support',
           position: 'left',
         },
+        {
+          href: 'https://threefold.io',
+          label: 'ThreeFold.io',
+          position: 'right',
+        },
       ],
     },
     footer: {
@@ -125,6 +130,10 @@ const config: Config = {
             {
               label: 'X',
               href: 'https://x.com/threefold_io',
+            },
+            {
+              label: 'Support',
+              to: '/support',
             },
           ],
         },
