@@ -1,6 +1,7 @@
 ---
 title: Connect the Nodes
 description: How to connect the nodes to the grid
+sidebar_position: 4
 ---
 
 Once you've received your INCA nodes, it takes a few minutes to connect it:

@@ -1,6 +1,7 @@
 ---
 title: ThreeFold Connect
 description: How to install the ThreeFold Connect app
+sidebar_position: 1
 ---
 
 ## Introduction

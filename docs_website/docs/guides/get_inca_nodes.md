@@ -1,6 +1,7 @@
 ---
 title: Get INCA Nodes
 description: How to get INCA nodes
+sidebar_position: 3
 ---
 
 There are different models of INCA nodes available.

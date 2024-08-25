@@ -1,6 +1,7 @@
 ---
 title: Create a Farm
 description: How to create a Farm with ThreeFold Connect
+sidebar_position: 2
 ---
 
 ## Introduction

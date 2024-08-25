@@ -133,7 +133,7 @@ Comprising more than 70% of TFT to the community, the INCA tokenomics ensure tha
 
 ### Tokenomics
 
-The ThreeFold Tokenomics framework for Grid 4.0 and Project INCA has been designed to promote a thriving ecosystem of cloud users, farmers, and validators. It presents a robust liquidity strategy that ensures seamless transfers and secure transactions within our cloud marketplace. Furthermore, by allocating 40 million tokens for farming grants, we're empowering individuals and organizations to contribute to the grid's growth and development.
+The ThreeFold INCA Tokenomics framework for Grid 4.0 and Project INCA has been designed to promote a thriving ecosystem of cloud users, farmers, and validators. It presents a robust liquidity strategy that ensures seamless transfers and secure transactions within our cloud marketplace. Furthermore, by allocating 40 million tokens for farming grants, we're empowering individuals and organizations to contribute to the grid's growth and development.
 
 Our proof-of-utilization rewards system distributes 80% of rewards to farmers who contribute their resources to the grid, ensuring that they're fairly compensated for their participation. Additionally, 10% of rewards are allocated to the ThreeFold Cooperative and 10% to validator commercial partners, promoting a collaborative and mutually beneficial ecosystem. 100% of the proof-of-capacity rewards go to the farmers hosting nodes on the grid.
 
@@ -141,7 +141,7 @@ Our proof-of-utilization rewards system distributes 80% of rewards to farmers wh
 
 ### Distribution
 
-The ThreeFold token distribution plan for Grid 4.0 and Project INCA is carefully crafted to ensure a major allocation to the community. There can never be more than 4 billion tokens.
+The INCA token distribution plan for Grid 4.0 and Project INCA is carefully crafted to ensure a major allocation to the community. There can never be more than 4 billion tokens.
 
 By prioritizing community growth, we're creating a collaborative environment where everyone can benefit from their contributions and participate in the project's success. This balanced distribution ensures that a significant amount of tokens is dedicated to the community, creating opportunities for growth and development within our ecosystem.
 
@@ -167,7 +167,7 @@ Here is a detailed version of the distribution:
 
 ### Release Schedule
 
-The ThreeFold token release schedule is designed to balance the needs of different stakeholders, ensuring that everyone has access to their allocated tokens in a predictable and reliable manner. 
+The INCA token release schedule is designed to balance the needs of different stakeholders, ensuring that everyone has access to their allocated tokens in a predictable and reliable manner. 
 
 Investors will receive their tokens over two years, with equal tranches released at regular intervals. Farmer rewards will be released over three years, incentivizing contributors to continue building and growing the grid. Ecosystem rewards will follow a similar schedule, with token releases spanning four years to promote collaboration and participation within the community.
 

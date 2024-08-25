@@ -1,6 +1,7 @@
 ---
 title: Terms and Conditions
 description: Terms and Conditions for the Project INCA
+sidebar_position: 1
 ---
 
 These Terms of Use constitute a legally binding agreement made between you, whether personally or on behalf of an entity (“you”) and ThreeFold, doing business as ThreeFold (“ThreeFold“, “we”, “us”, or “our”), concerning your access to and use of the threefold related websites:

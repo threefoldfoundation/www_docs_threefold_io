@@ -1,6 +1,7 @@
 ---
 title: Privacy Policy
 description: Privacy Policy concerning Project INCA
+sidebar_position: 2
 ---
 
 *This privacy policy will explain how ThreeFold Movement ("companies", "we", or "us") uses the personal data we collect from you when you use our websites, including the Project INCA website.*

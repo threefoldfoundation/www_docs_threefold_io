@@ -98,8 +98,8 @@ const config: Config = {
               to: '/docs/litepaper',
             },
             {
-              label: 'Guides',
-              to: '/docs/category/guides',
+              label: 'Node Guides',
+              to: '/docs/category/node-guides',
             },
             {
               label: 'References',

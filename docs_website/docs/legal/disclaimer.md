@@ -1,6 +1,7 @@
 ---
 title: Disclaimer
 description: Disclaimer
+sidebar_position: 3
 ---
 
 ## Disclaimer
