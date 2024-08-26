@@ -1,6 +1,7 @@
 import clsx from 'clsx';
 import Heading from '@theme/Heading';
 import styles from './styles.module.css';
+import { useColorMode } from '@docusaurus/theme-common'
 
 type FeatureItem = {
   title: string;
@@ -9,7 +10,9 @@ type FeatureItem = {
 };
 
 const FeatureList: FeatureItem[] = [
-  {
+  { scale: 1.0,
+    fill: '#00000',
+    id: 'svgcolor',
     title: 'Part of a Worldwide Grid',
     Svg: require('@site/static/img/clouds.svg').default,
     description: (
@@ -18,7 +21,8 @@ const FeatureList: FeatureItem[] = [
       </>
     ),
   },
-  {
+  { scale: 1.0,
+    id: 'svgcolor',
     title: 'Get ThreeFold Nodes',
     Svg: require('@site/static/img/nodes.svg').default,
     description: (
@@ -27,7 +31,8 @@ const FeatureList: FeatureItem[] = [
       </>
     ),
   },
-  {
+  { scale: 1.0,
+    id: 'svgcolor',
     title: 'Earn Rewards',
     Svg: require('@site/static/img/rewards.svg').default,
     description: (
@@ -38,11 +43,21 @@ const FeatureList: FeatureItem[] = [
   },
 ];
 
-function Feature({title, Svg, description}: FeatureItem) {
+function Feature({scale, fill, id, title, Svg, description}: FeatureItem) {
+
+  // Custom code to change the fill color of the Cloud Arrow Up SVG
+  // depending on if user is in dark/light mode
+  const {colorMode} = useColorMode()
+  if ( id === 'svgcolor' && colorMode === 'light' ) {
+    fill = '#2a2021' // dark ThreeFold.io color
+  } else if ( id === 'svgcolor' && colorMode === 'dark') {
+    fill = '#ffffff'  // white basic color
+  }
+
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
+      <Svg transform={"scale(" + scale + ")"} fill={fill} id={id} className={styles.featureSvg} role="img" />
       </div>
       <div className="text--center padding-horiz--md">
         <Heading as="h3">{title}</Heading>
