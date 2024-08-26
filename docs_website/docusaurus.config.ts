@@ -62,7 +62,7 @@ const config: Config = {
   themeConfig: {
     colorMode: {
       defaultMode: 'light',
-      disableSwitch: true,
+      disableSwitch: false,
       respectPrefersColorScheme: false,
     },
     // Replace with your project's social card
@@ -72,6 +72,7 @@ const config: Config = {
       logo: {
         alt: 'ThreeFold Logo',
         src: 'img/logo.svg',
+        srcDark: 'img/logo_dark.svg',
       },
       items: [
         {
