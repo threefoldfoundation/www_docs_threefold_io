@@ -2,7 +2,7 @@
 
 This repository contains the code to the ThreeFold Docs website.
 
-It is currently hosted at `docs.threefold.pro` as a staging version.
+It is hosted at `threefold.info/docs`.
 
 ## Branches
 
@@ -10,26 +10,6 @@ It is currently hosted at `docs.threefold.pro` as a staging version.
   - code version of website
 - `gh-pages`
   - deploy version of website
-
-## Todo
-
-- upgrade support page
-  - with mdx, nice UX
-- add support interactive chat button (crisp)
-- upgrade UX
-  - fit ThreeFold brand
-    - see https://threefold.io/ update
-    - branch: https://github.com/threefoldfoundation/www_threefol_io
-  - Parameters
-    - colors
-    - icons
-    - images
-- Set light/dark theme
-  - adjust pictures, icons and colors to fit
-- Add search bar on top right
-- Set docs.threefold.io
-  - on threefoldfoundation repo 
-  - or on git.ourworld.tf
 
 ## References
 
