@@ -1,6 +1,6 @@
 # Support
 
-Our dedicated team is here to help you every step of the way. We're passionate about ensuring that you receive the best possible experience exploring the ThreeFold Ecosystem.
+Our dedicated team is here to help you every step of the way. We're passionate about ensuring that you receive the best possible experience exploring the ThreeFold ecosystem.
 
 If you can't find the answer to your question, our dedicated ThreeFold Support team is here to help.
 
@@ -8,9 +8,9 @@ Reach out to the [***ThreeFold Support***](https://threefoldfaq.crisp.help/en/) 
 
 ## Live Chat Availability
 
-Our support team is available from Monday to Friday, Central European Time (CET), between 9:00 AM and 5:00 PM. During these hours, you can interact with us in real-time via live chat on the ThreeFold website.
+Our support team is available from Monday to Friday, Central European Summer Time (CEST), between 8:00 AM and 12:00 AM (16 hours per day). During these hours, you can interact with us in real-time via live chat on the ThreeFold website.
 
-* **Monday to Friday**: Available from 9:00 AM to 5:00 PM CET
+* **Monday to Friday**: Available from 8:00 AM to 12:00 AM CEST
 
 > Outside of these hours, you can still write to the Support and they will get back to you during working hours.
 
