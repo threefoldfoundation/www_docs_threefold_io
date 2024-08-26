@@ -12,4 +12,4 @@ Once you've received your ThreeFold nodes, it takes a few minutes to connect it:
 
 The node will automatically connect to the grid. That's it!
 
-The node is self-healing and you will need miminal if any maintenance.
+The node is self-healing and you will need miminal maintenance, if any.

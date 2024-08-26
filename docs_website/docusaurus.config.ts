@@ -103,6 +103,10 @@ const config: Config = {
               to: '/docs/litepaper',
             },
             {
+              label: 'Tokenomics',
+              to: '/docs/tokenomics',
+            },
+            {
               label: 'Node Guides',
               to: '/docs/category/node-guides',
             },
