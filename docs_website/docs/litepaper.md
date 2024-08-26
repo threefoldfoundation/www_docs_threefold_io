@@ -220,4 +220,4 @@ Be among the first farmers to mint the new INCA tokens by reserving your INCA no
 
 ## Learn More
 
-To learn more about the ThreeFold Ecosystem, read the [ThreeFold Whitepaper](https://threefold.info/projectinca) and the [ThreeFold Techpaper](https://threefold.info/tech)
+To learn more about the ThreeFold Ecosystem, read the [ThreeFold Whitepaper](https://threefold.info/projectinca) and the [ThreeFold Techpaper](https://threefold.info/tech).
