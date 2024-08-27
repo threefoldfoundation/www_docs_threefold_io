@@ -64,6 +64,15 @@ const config: Config = {
   },
   themes: ['@docusaurus/theme-mermaid'],
 
+  scripts: [
+    
+    {
+      src:
+        '/js/crisp.js',
+      async: false,
+    },
+  ],
+
   themeConfig: {
     colorMode: {
       defaultMode: 'light',
