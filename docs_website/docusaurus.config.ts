@@ -5,7 +5,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'ThreeFold Docs',
   tagline: 'Decentralized Autonomous Cloud',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/logo_blue.svg',
 
   // Set the production url of your site here
   url: 'https://docs.threefold.info',
