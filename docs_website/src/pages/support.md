@@ -2,9 +2,13 @@
 
 Our dedicated team is here to help you every step of the way. We're passionate about ensuring that you receive the best possible experience exploring the ThreeFold ecosystem.
 
-If you can't find the answer to your question, our dedicated ThreeFold Support team is here to help.
+If you can't find the answer to your question, our dedicated ThreeFold support team is here to help.
 
-Reach out to the [***ThreeFold Support***](https://threefoldfaq.crisp.help/en/) for assistance.
+## Reach Support
+
+***To contact the ThreeFold support team, simply click on the chat button at the bottom right of the screen.***
+
+You can also visit the [ThreeFold Support Crisp website](https://threefoldfaq.crisp.help/en/).
 
 ## Live Chat Availability
 
@@ -12,7 +16,7 @@ Our support team is available from Monday to Friday, Central European Summer Tim
 
 * **Monday to Friday**: Available from 8:00 AM to 12:00 AM CEST
 
-> Outside of these hours, you can still write to the Support and they will get back to you during working hours.
+> Outside of these hours, you can still write to the support team and they will get back to you during working hours.
 
 ## How We Can Help
 
@@ -25,9 +29,8 @@ Our support team is here to assist you with any questions or concerns you may ha
 
 ## Get in Touch
 
-Ready to reach out? Visit the ThreeFold website and initiate a chat with us during business hours. We're here to listen, assist, and provide support!
+Ready to reach out? Simply click on the chat button at the bottom right of the screen and initiate a chat with us during business hours. 
 
-### Contact Us
-[Live Chat Link](https://threefoldfaq.crisp.help/en/)
+*We're here to listen, assist, and provide support!*
 
 ---
