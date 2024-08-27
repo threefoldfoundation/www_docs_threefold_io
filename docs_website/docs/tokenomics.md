@@ -18,7 +18,17 @@ The ThreeFold INCA tokenomics for the ThreeFold Grid 4.0 has been designed to pr
 
 Our proof-of-utilization rewards system distributes 80% of rewards to farmers who contribute their resources to the grid, ensuring that they're fairly compensated for their participation. Additionally, 10% of rewards are allocated to the ThreeFold Cooperative and 10% to validator commercial partners, promoting a collaborative and mutually beneficial ecosystem. 100% of the proof-of-capacity rewards go to the farmers hosting nodes on the grid.
 
-![Alt text](./img/tokenomics.png)
+```mermaid
+flowchart TD
+    A[Cloud User] -->|CHF/EUR/...| B(CLOUD MARKET PLACE<br>Discount based on position<br>in TF Liquidity Pool.)
+    A[Cloud User] -->|CHF/EUR/...| B2((ThreeFold<br>Liquidity Pool))
+    B2 -->|TFT or INCA| B
+    B -->|TFT or INCA| C{Proof Of Utilization}
+    G[FARMING GRANTS<br>40m Tokens / Month]-->  I{Proof Of Capacity<br>uptime, location, ...} --> D
+    C -->|80%| D[ThreeFold Farmers]
+    C -->|10%| E[ThreeFold Cooperative]
+    C -->|10%| F[Validators<br>Commercial Partners]
+  ```
 
 ## Distribution
 
