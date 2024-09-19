@@ -10,5 +10,5 @@ cd docs_website
 yarn build
 cd ..
 
-rsync -rv ${script_dir}/docs_website/build/ root@info.ourworld.tf:/root/hero/www/info/docs/
+rsync -rv --delete ${script_dir}/docs_website/build/ root@info.ourworld.tf:/root/hero/www/info/docs/
 
