@@ -11,8 +11,8 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   { scale: 1.0,
-    fill: '#00000',
-    id: 'svgcolor',
+    fill:"currentColor",
+    // id: 'svgcolor',
     title: 'Part of a Worldwide Grid',
     Svg: require('@site/static/img/clouds.svg').default,
     description: (
@@ -22,7 +22,8 @@ const FeatureList: FeatureItem[] = [
     ),
   },
   { scale: 1.0,
-    id: 'svgcolor',
+    // id: 'svgcolor',
+    fill:"currentColor",
     title: 'Get ThreeFold Nodes',
     Svg: require('@site/static/img/nodes.svg').default,
     description: (
@@ -32,7 +33,8 @@ const FeatureList: FeatureItem[] = [
     ),
   },
   { scale: 1.0,
-    id: 'svgcolor',
+    // id: 'svgcolor',
+    fill:"currentColor",
     title: 'Earn Rewards',
     Svg: require('@site/static/img/rewards.svg').default,
     description: (
@@ -47,12 +49,12 @@ function Feature({scale, fill, id, title, Svg, description}: FeatureItem) {
 
   // Custom code to change the fill color of the Cloud Arrow Up SVG
   // depending on if user is in dark/light mode
-  const {colorMode} = useColorMode()
-  if ( id === 'svgcolor' && colorMode === 'light' ) {
-    fill = '#2a2021' // dark ThreeFold.io color
-  } else if ( id === 'svgcolor' && colorMode === 'dark') {
-    fill = '#ffffff'  // white basic color
-  }
+  // const {colorMode} = useColorMode()
+  // if ( id === 'svgcolor' && colorMode === 'light' ) {
+  //   fill = '#2a2021' // dark ThreeFold.io color
+  // } else if ( id === 'svgcolor' && colorMode === 'dark') {
+  //   fill = '#ffffff'  // white basic color
+  // }
 
   return (
     <div className={clsx('col col--4')}>
