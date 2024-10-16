@@ -5,6 +5,8 @@
 - [Introduction](#introduction)
 - [URL](#url)
 - [Branches](#branches)
+- [Ops Scripts](#ops-scripts)
+- [Deploy and Test Locally](#deploy-and-test-locally)
 - [Contribute](#contribute)
   - [Branches and Forks](#branches-and-forks)
   - [Overview](#overview)
@@ -26,6 +28,16 @@ The website is hosted at `docs.threefold.info`.
   - code version of website
 - `development_<suffix>`
   - See `Contribute` section for details
+
+## Ops Scripts
+
+To install the prerequisites to build the website, you can use the `install.sh` script.
+
+To build the website, you can use the `build.sh` script.
+
+## Deploy and Test Locally
+
+To deploy and test locally, refer to [this documentation](./docs_website/README.md).
 
 ## Contribute
 
