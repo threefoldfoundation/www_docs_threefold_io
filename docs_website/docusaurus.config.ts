@@ -130,12 +130,8 @@ const config: Config = {
               to: '/docs/litepaper',
             },
             {
-              label: 'Tokenomics',
-              to: '/docs/tokenomics',
-            },
-            {
-              label: 'Node Guides',
-              to: '/docs/category/node-guides',
+              label: 'Roadmap',
+              to: '/docs/roadmap',
             },
             {
               label: 'References',
@@ -148,12 +144,21 @@ const config: Config = {
           ],
         },
         {
-          title: 'Community',
+          title: 'Products',
           items: [
             {
-              label: 'Forum',
-              href: 'https://forum.threefold.io',
+              label: 'Phones',
+              to: '/docs/category/phones',
             },
+            {
+              label: 'Nodes',
+              to: '/docs/category/nodes',
+            },
+          ],
+        },
+        {
+          title: 'Community',
+          items: [
             {
               label: 'Telegram',
               href: 'https://t.me/threefold',
@@ -161,6 +166,10 @@ const config: Config = {
             {
               label: 'X',
               href: 'https://x.com/threefold_io',
+            },
+            {
+              label: 'Forum',
+              href: 'https://forum.threefold.io',
             },
             {
               label: 'Support',
