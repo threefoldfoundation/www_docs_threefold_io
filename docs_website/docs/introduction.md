@@ -4,12 +4,20 @@ sidebar_position: 1
 
 # Introduction
 
-ThreeFold is a decentralized platform for unbreakable data, peer-to-peer network, and autonomous cloud. Founded by a core team with deep roots in the early Internet, they bring first-hand experience from its origins as a decentralized network to its evolution into today’s centralized systems.
+---
 
-## Proven Track Record
+***ThreeFold is the only system in the world capable to deliver self-healing data, network and cloud at a planetary scale***
 
-Over the years, the team developed core technological components for a decentralized cloud, a data storage system which cannot fail and an end-to-end encrypted network system – all from the ground up. Subsequently, a global community of independent individuals and organizations expanded the grid as proof that a decentralized open-source Internet can be revived. 
+---
 
-## Next Phase
+## A Dream Comes True
 
-Now, the project is entering its next phase, ThreeFold V4. This phase is focused on commercial expansion, broader adoption, and completing the remaining components needed to form a cohesive and complete alternative to today’s centralized systems. 
+Imagine a system which can...
+
+- [x] Scale to a planetary level
+- [x] Is compatible with AI, Cloud, Web2, Web3 and Edge IT workloads
+- [x] Has the potential to recover from unforeseen events
+- [x] Provides 100% uptime
+- [x] Allows any machine and human to communicate over the shortest path
+
+This dream has come true: ThreeFold is a decentralized platform for unbreakable data, peer-to-peer network, and autonomous cloud. Read forward to learn more about this innovative system.
