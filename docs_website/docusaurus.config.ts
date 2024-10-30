@@ -3,8 +3,8 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'ThreeFold Docs',
-  tagline: 'Decentralized Autonomous Cloud',
+  title: 'ThreeFold',
+  tagline: 'Self-Healing Data, Network & Cloud Platform',
   favicon: 'img/logo_blue.svg',
 
   // Set the production url of your site here
@@ -15,8 +15,8 @@ const config: Config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'mik-tf', // Usually your GitHub org/user name.
-  projectName: 'mik-tf.github.io', // Usually your repo name.
+  organizationName: 'git.ourworld.tf/tftech', // Usually your GitHub org/user name.
+  projectName: 'docs_tfgrid4', // Usually your repo name.
   trailingSlash: false,
 
   onBrokenLinks: 'throw',

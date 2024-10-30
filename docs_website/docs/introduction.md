@@ -12,9 +12,9 @@ sidebar_position: 1
 
 ## A Dream Comes True
 
-Imagine a system which can...
+Imagine a system which...
 
-- [x] Scale to a planetary level
+- [x] Scales to a planetary level
 - [x] Is compatible with AI, Cloud, Web2, Web3 and Edge IT workloads
 - [x] Has the potential to recover from unforeseen events
 - [x] Provides 100% uptime
