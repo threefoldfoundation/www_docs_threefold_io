@@ -84,7 +84,7 @@ This Augmented Collective Intelligence is possible thanks to the ThreeFold's clo
 
 ## ThreeFold Cloud
 
-It all starts with the ThreeFold Cloud. The ThreeFold Cloud offers edge Ai and a complete cloud platform. This enables anyone in the world to access the nearest ThreeFold nodes via the Mycelium network, always finding the shortest path.
+It all starts with the ThreeFold Cloud. The ThreeFold Cloud offers edge AI and a complete cloud platform. This enables anyone in the world to access the nearest ThreeFold nodes via the Mycelium network, always finding the shortest path.
 
 You can deploy a ThreeFold node in your home, in a datacenter or in any commercial settings. ThreeFold nodes can host the ThreeFold AI assistant called Hero, helping you in everyday task and enterprises while always being secure, encrypted and private. 
 
@@ -123,4 +123,4 @@ We envision the internet as a freeflow of authentic information, connecting ever
 
 ## Learn More
 
-To learn more about the ThreeFold Ecosystem, read the [ThreeFold Technology Ebook](https://threefold.info/tech).
+To learn more about the ThreeFold technology, read the [ThreeFold Technology Ebook](https://threefold.info/tech).

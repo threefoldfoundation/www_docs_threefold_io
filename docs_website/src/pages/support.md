@@ -27,7 +27,7 @@ Our support team is here to assist you with any questions or concerns you may ha
 * **Feature Setup**: Guidance on how to set up and use various ThreeFold features, services and products.
 * **General Questions**: Answers to any questions you may have about ThreeFold.
 
-## Get in Touch
+## Get In Touch
 
 Ready to reach out? Simply click on the chat button at the bottom right of the screen and initiate a chat with us during business hours. 
 
