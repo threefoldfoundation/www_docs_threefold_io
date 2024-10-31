@@ -6,7 +6,7 @@ sidebar_position: 3
 
 ## Pricing
 
-Farmers and farming pools can decide on their own price but between the min and max as specified below.
+Farmers and farming pools decide on their own price as long as it stays between the range specified in the [Use Resources](./use_resources.md) section.
 
 ## Utilization Rewards Distribution
 
@@ -29,7 +29,7 @@ The following rewards are guaranteed for a 18-month period starting from activat
 | Components | Rewards (INCA/month) |
 |---|---|
 | GB Memory | 8.0 |
-| GPU GB | 10 |
+| GPU Model | TBD |
 | TB SSD | 31.5 |
 | TB HDD | 7.0 |
 | TB Network | 30.0 | 
@@ -40,6 +40,8 @@ The tokens received as rewards are locked up for 24 months, or until 40% used of
 
 - The minimum CPU passmark per GB of memory is 200
 - The minimum GB of memory is 16GB
-- The minimum TB of SSd is 2TB
+- The minimum TB of SSD is 2TB
 
-> Note: This is subject to change. We are still working on the marketplace specs.
+## Host Nodes
+
+Read the [Nodes](/docs/category/nodes) section to learn more about the process of hosting a node.
