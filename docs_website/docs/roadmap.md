@@ -48,3 +48,7 @@ ThreeFold is actively working on amazing features that will be sooner than later
 - [ ] Mycelium CDN
 - [ ] Mycelium VPN
 - [ ] Mycelium Web3 Gateway
+
+## Component Details
+
+To learn more about each component, read the [System Components](./category/system-components) section.

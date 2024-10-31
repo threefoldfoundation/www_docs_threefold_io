@@ -8,7 +8,7 @@ A farming pool has certain tasks and responsibility. In exchange of their work, 
 
 ## Setting Rewards
 
-Those rewards are first defined by the grid, see [Grid Utilization](./grid_utilization.md). Then, starting end of 2025, each farming pool will define slice prices and rewards to farmers.
+Those rewards are first defined by the ThreeFold Platform, see the page [Offer Resources](./offer_resources.md). Then, starting end of 2025, each farming pool will define slice prices and rewards to farmers.
 
 ## Tasks and Responsibility
 
