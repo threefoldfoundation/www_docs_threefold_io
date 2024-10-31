@@ -19,6 +19,4 @@ A Farming pool takes care of the following:
 - Management infrastructure (monitoring, billing, ...)	
 - Sales of The Nodes (or work with vendor(s))	
 - Communication with the Farmers in the Pool	
-- Price Definition (define sales prices of the slices)	
-
-> Note: As a farmer choses a farming pool, they will have to give a part of their reward to the farming pool.
+- Price Definition (define sales prices of the slices)
