@@ -16,7 +16,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/clouds.svg').default,
     description: (
       <>
-        Explore the ThreeFold Grid, available in 60+ countries with thousands of nodes!
+        Discover the ThreeFold Grid, available in 60+ countries with thousands of nodes!
       </>
     ),
   },
