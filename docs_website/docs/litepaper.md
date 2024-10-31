@@ -60,6 +60,8 @@ We build on a successful track record. Indeed, our team has built some of the wo
 
 ![Alt text](./img/track_record.png)
 
+### World Records
+
 Moreover, our team has set numerous world records, notably world records for web hosting (1997-2002), the first backup data duplication system in the world (2005), one of the first cloud systems (2008), the first multi-site consistent database (2010), the first unbreakable and distributed storage system (2012) and probably the first proof-of-block stake blockchain (2017).
 
 ![Alt text](./img/world_records.png)
@@ -145,7 +147,7 @@ The ThreeFold Engine is the base layer for any cloud, edge and AI workloads.
 
 ### 3 Core Inventions
 
-ThreeFold has built many tecnology over the years. Among the stack of technology created, three main inventions constitute the core of the ThreeFold Platform:
+ThreeFold has built many technology over the years. Among the stack of technology created, three main inventions constitute the core of the ThreeFold Platform:
 
 - **A new bare metal operating system**
   - Zero-OS supports all required Web2 and Web3 workloads and allows millions of nodes to operate in full autonomous mode providing lower cost, better energy efficiency, more reliability and security
@@ -163,6 +165,34 @@ The trillion USD AI and Edge workloads market needs a different engine which is 
 Countries are looking for solutions which are sovereign and allow them to restore the huge imbalance created over the years.
 
 The ThreeFold Platform can provide products and services for this trillion dollar market.
+
+## Products
+
+ThreeFold has developed products that make the most of the technology we've built over the years. Those products are as much for the end-users using the decentralized ultra-secure OurPhone smartphone, as for the cloud service provider hosting 3nodes on the grid. 
+
+The 3nodes are the backbone of the grid, as they offer compute, storage and network resources to users of the grid. The OurPhone taps the resource of the grid via the network mycelium. The ThreeFold line of product is really a direct proof of the power of the data, network and cloud system we've developed.
+
+### Nodes
+
+The beauty of the ThreeFold nodes is that they are completely autonomous and self-healing. It couldn't be any easier to host your own ThreeFold nodes. You simply need to connect the node to a power source and the Internet, and then power it on. The node will automatically connect to the grid and provide data, network and cloud to users of the ThreeFold platform.
+
+![Alt text](./img/plugnplay_nodes.png)
+
+Read the [Nodes](./category/nodes) section to learn more about how to host your own nodes on the grid.
+
+### Phones
+
+It can easily be said that OurPhone is the first truly decentralized smartphone. OurPhone™ is a new platform offering complete data ownership, quantum-safe storage, and decentralized apps (OurApps™) through its network, OurVerse™. This network is built on decentralized technology for speed, security, and user control. Users benefit from fully encrypted communication and edge computing for fast and secure experiences. 
+
+![Alt text](./img/ourphone.png)
+
+Read the [Phones](./category/phones) section to learn more about how to host your own nodes on the grid.
+
+### Marketplace
+
+For the ThreerFold V4, we are introducing a marketplace where farmers can offer resources and where third parties can use the grid infrastructure. Farmers can define prices for cloud, compute and storage slices. The marketplace has mimimum and maximum price range for each type of slice to avoid abuse and ensure a fair market.
+
+Read the [Marketplace](./category/marketplace) section to learn more about how to host your own nodes on the grid.
 
 ## Best of Both Worlds
 
@@ -192,6 +222,36 @@ You can deploy a ThreeFold node in your home, in a datacenter or in any commerci
 
 The nodes within the grid, connected via the Mycelium network, enhanced by the Hero AI assistant create a complementary unbreakable Internet compatible with the current one. This means that you can harness the full potential of the current Internet and the culmulation of humankind knowledge via the ThreeFold Cloud Engine: privately and securely 
 
+### System Components
+
+To enable a truly decentralized peer-to-peer Internet, all the components must fall into place and build on each other. The complete work is not done yet, but we can gladly say that over the years, we've built at ThreeFold the foundation for this grand vision. 
+
+When all components of the ThreeFold platform will be built and in production, at this point we will represent a truly viable and accessible alternative to the current cloud, data and network market, an alternative that protects user's privacy, that is secure, energy-efficient and evolutive.
+
+The ThreeFold platform is a whole composed of the following components: 
+
+- ThreeFold Decentralized Cloud
+- ThreeFold Dashboard
+- ThreeFold Connect
+- ThreeFold Nodes
+- Quantum Safe File System
+- Mycelium Quantum Safe Network
+- Mycelium Web2 Gateway
+- Mycelium Message Bus
+- ThreeFold Phones
+- ThreeFold Marketplace
+- ThreeFold Magic Cloud Node Cluster
+- Mycelium Naming Services
+- Mycelium Wifi Integration
+- Mycelium Routers
+- Mycelium Video Conferencing 
+- Mycelium Chat
+- Mycelium CDN
+- Mycelium VPN
+- Mycelium Web3 Gateway
+
+Check the [Roadmap](./roadmap.md) to consult the current status for each component. Read the [System Components](./references/system_components) section to learn about each individual components and their use cases.
+
 ### Use Cases
 
 The ThreeFold ecosystem throughout the years developed and built strong partnerships and projects over the world.
@@ -214,6 +274,8 @@ Among endless use cases, here is a list of active partnerships and use cases:
   - Virtual reality museum 
 - Sikana 
   - Virtual learning platfrom
+
+Read the [Use Cases](./references/use_cases) section to explore what you can with the ThreeFold platform and what will be possible in the future.
 
 ## The Internet as Hope for Humanity
 

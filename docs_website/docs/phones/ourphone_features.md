@@ -6,6 +6,8 @@ sidebar_position: 1
 
 The ThreeFold OurPhones presents unique features that makes it the ultimate decentralized smartphone on the market.
 
+
+
 - **100% Data Ownership**
   - With OurPhone™, you are the sole owner of your data, will always be, not some giant tech companies.
 

@@ -12,31 +12,31 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
   { scale: 1.0,
     fill:"currentColor",
-    title: 'Part of a Worldwide Grid',
+    title: 'Proven Technology',
     Svg: require('@site/static/img/clouds.svg').default,
     description: (
       <>
-        The ThreeFold Grid is available in 60+ countries with thousands of nodes!
+        Explore the ThreeFold Grid, available in 60+ countries with thousands of nodes!
       </>
     ),
   },
   { scale: 1.0,
     fill:"currentColor",
-    title: 'Get ThreeFold Nodes',
+    title: 'Nodes',
     Svg: require('@site/static/img/nodes.svg').default,
     description: (
       <>
-        Get ThreeFold nodes to provide compute, storage and network resources to the world.
+        Contribute to ThreeFold's growth by deploying nodes while earning rewards.
       </>
     ),
   },
   { scale: 1.0,
     fill:"currentColor",
-    title: 'Earn Rewards',
-    Svg: require('@site/static/img/rewards.svg').default,
+    title: 'OurPhone',
+    Svg: require('@site/static/img/cellphone.svg').default,
     description: (
       <>
-        Deploy nodes and contribute to the growth of the ThreeFold Grid to earn rewards!
+        Get the world's first truly decentralized smartphone
       </>
     ),
   },

@@ -20,7 +20,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/introduction">
-            Explore the ThreeFold Grid
+            Explore the ThreeFold Platform
           </Link>
         </div>
       </div>
@@ -33,7 +33,7 @@ export default function Home(): JSX.Element {
   return (
     <Layout
       title={`Home`}
-      description="Decentralized Autonomous Cloud">
+      description="Self-Healing Data, Network & Cloud Platform">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
