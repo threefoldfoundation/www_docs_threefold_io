@@ -188,6 +188,12 @@ It can easily be said that OurPhone is the first truly decentralized smartphone.
 
 Read the [Phones](./category/phones) section to learn more about how to host your own nodes on the grid.
 
+### Marketplace
+
+For the ThreerFold V4, we are introducing a marketplace where farmers can offer resources and where third parties can use the grid infrastructure. Farmers can define prices for cloud, compute and storage slices. The marketplace has mimimum and maximum price range for each type of slice to avoid abuse and ensure a fair market.
+
+Read the [Marketplace](./category/marketplace) section to learn more about how to host your own nodes on the grid.
+
 ## Best of Both Worlds
 
 The ThreeFold technology is the best of both worlds. You can get the benefits of both the protocols and the centralized data centers without any of the downsides.
@@ -225,12 +231,15 @@ When all components of the ThreeFold platform will be built and in production, a
 The ThreeFold platform is a whole composed of the following components: 
 
 - ThreeFold Decentralized Cloud
+- ThreeFold Dashboard
+- ThreeFold Connect
 - ThreeFold Nodes
 - Quantum Safe File System
 - Mycelium Quantum Safe Network
 - Mycelium Web2 Gateway
 - Mycelium Message Bus
 - ThreeFold Phones
+- ThreeFold Marketplace
 - ThreeFold Magic Cloud Node Cluster
 - Mycelium Naming Services
 - Mycelium Wifi Integration

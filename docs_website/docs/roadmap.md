@@ -25,6 +25,8 @@ ThreeFold has built the foundation for a peer-to-peer cloud platform. Currently,
 Anyone can become a farmer and contribute to the expansion of the grid. We've built planetary-scale quantum safe storage and network systems. Our technology has been in production for years and ThreeFold provides modern cloud features to users worldwide.
 
 - [x] ThreeFold Decentralized Cloud
+- [x] ThreeFold Dashboard
+- [x] ThreeFold Connect
 - [x] ThreeFold Nodes
 - [x] Quantum Safe File System
 - [x] Mycelium Quantum Safe Network
@@ -36,6 +38,7 @@ Anyone can become a farmer and contribute to the expansion of the grid. We've bu
 ThreeFold is actively working on amazing features that will be sooner than later available on the ThreeFold platform. Many of those features are well on their way and we will update our community with news and updates.
 
 - [ ] ThreeFold Phones
+- [ ] ThreeFold Marketplace
 - [ ] ThreeFold Magic Cloud Node Cluster
 - [ ] Mycelium Naming Services
 - [ ] Mycelium Wifi Integration

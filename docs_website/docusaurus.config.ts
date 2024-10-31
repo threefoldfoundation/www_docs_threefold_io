@@ -154,6 +154,10 @@ const config: Config = {
               label: 'Nodes',
               to: '/docs/category/nodes',
             },
+            {
+              label: 'Marketplace',
+              to: '/docs/category/marketplace',
+            },
           ],
         },
         {

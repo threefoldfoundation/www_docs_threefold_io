@@ -12,11 +12,11 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
   { scale: 1.0,
     fill:"currentColor",
-    title: 'Self-Healing Platform',
+    title: 'Proven Technology',
     Svg: require('@site/static/img/clouds.svg').default,
     description: (
       <>
-        Discover our self-healing data, network and cloud platform.
+        Explore the ThreeFold Grid, available in 60+ countries with thousands of nodes!
       </>
     ),
   },

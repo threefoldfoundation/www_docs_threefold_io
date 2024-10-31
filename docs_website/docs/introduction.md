@@ -21,3 +21,5 @@ Imagine a system which...
 - [x] Allows any machine and human to communicate over the shortest path
 
 This dream has come true: ThreeFold is a decentralized platform for unbreakable data, peer-to-peer network, and autonomous cloud. Read forward to learn more about this innovative system.
+
+> Note: We are still defining the V4 specs. Feel free to write your feedback on the [ThreeFold Forum](https://forum.threefold.io).
