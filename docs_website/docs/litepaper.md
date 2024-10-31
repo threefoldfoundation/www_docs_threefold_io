@@ -250,7 +250,7 @@ The ThreeFold platform is a whole composed of the following components:
 - Mycelium VPN
 - Mycelium Web3 Gateway
 
-Check the [Roadmap](./roadmap.md) to consult the current status for each component. Read the [System Components](./references/system_components) section to learn about each individual components and their use cases.
+Check the [Roadmap](./roadmap.md) to consult the current status for each component. Read the [System Components](./category/system-components) section to learn about each individual components and their use cases.
 
 ### Use Cases
 
@@ -275,7 +275,7 @@ Among endless use cases, here is a list of active partnerships and use cases:
 - Sikana 
   - Virtual learning platfrom
 
-Read the [Use Cases](./references/use_cases) section to explore what you can with the ThreeFold platform and what will be possible in the future.
+Read the [Use Cases](./category/use-cases) section to explore what you can with the ThreeFold platform and what will be possible in the future.
 
 ## The Internet as Hope for Humanity
 
