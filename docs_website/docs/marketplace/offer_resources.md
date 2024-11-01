@@ -31,7 +31,7 @@ The following rewards are guaranteed for a 18-month period starting from activat
 | Components | Rewards (INCA/month) |
 |---|---|
 | GB Memory | 8.0 |
-| GB GPU | 31.5 |
+| GPU GB | TBD |
 | TB SSD | 31.5 |
 | TB HDD | 7.0 |
 | TB Network | 30.0 | 
