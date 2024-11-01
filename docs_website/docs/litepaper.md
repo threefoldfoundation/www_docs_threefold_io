@@ -249,6 +249,7 @@ The ThreeFold platform is a whole composed of the following components:
 - Mycelium CDN
 - Mycelium VPN
 - Mycelium Web3 Gateway
+- Hero AI Assistant
 
 Check the [Roadmap](./roadmap.md) to consult the current status for each component. Read the [System Components](./category/system-components) section to learn about each individual components and their use cases.
 

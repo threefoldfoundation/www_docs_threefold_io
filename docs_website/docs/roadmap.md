@@ -48,6 +48,7 @@ ThreeFold is actively working on amazing features that will be sooner than later
 - [ ] Mycelium CDN
 - [ ] Mycelium VPN
 - [ ] Mycelium Web3 Gateway
+- [ ] Hero AI Assistant
 
 ## Component Details
 
