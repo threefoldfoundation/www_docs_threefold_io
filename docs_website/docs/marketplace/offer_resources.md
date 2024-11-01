@@ -4,6 +4,8 @@ sidebar_position: 3
 
 # Offer Resources
 
+Farmers offer data, network and cloud resources by hosting nodes on the ThreeFold Platform.
+
 ## Pricing
 
 Farmers and farming pools decide on their own price as long as it stays between the range specified in the [Use Resources](./use_resources.md) section.
