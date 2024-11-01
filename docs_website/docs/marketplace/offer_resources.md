@@ -29,12 +29,14 @@ The following rewards are guaranteed for a 18-month period starting from activat
 | Components | Rewards (INCA/month) |
 |---|---|
 | GB Memory | 8.0 |
-| GPU Model | TBD |
+| GB GPU | 31.5 |
 | TB SSD | 31.5 |
 | TB HDD | 7.0 |
 | TB Network | 30.0 | 
 
 The tokens received as rewards are locked up for 24 months, or until 40% used of the node is used for a whole month. There is a gradual release of tokens. The release schedule starts the moment the node is activated on the grid. The detailed reward release distribution will be communicated when it is clearly defined.
+
+> Note: Current authorized GPU models are NVIDIA GeForce RTX 4090, AMD Radeon RX 7900 XTX, NVIDIA GeForce RTX 4080 Super and AMD Radeon RX 7900 GRE.
 
 ## Minimum Node Specs
 
