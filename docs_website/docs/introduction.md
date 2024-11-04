@@ -6,7 +6,7 @@ sidebar_position: 1
 
 ---
 
-***ThreeFold is the only system in the world capable of delivering self-healing data, network and cloud at a planetary scale***
+***ThreeFold is the only system in the world capable of delivering self-healing data, network and cloud at a planetary scale.***
 
 ---
 

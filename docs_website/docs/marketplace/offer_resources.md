@@ -24,7 +24,7 @@ The utilization rewards are distribute in a fair and simple manner:
 
 ## ZOS V4 Certified Rewards
 
-Farmers will get monthly rewards by providing resources to the ThreerFold Grid V4.
+Farmers will get monthly rewards by providing resources to the ThreeFold Grid V4.
 
 The following rewards are guaranteed for a 18-month period starting from activation.
 

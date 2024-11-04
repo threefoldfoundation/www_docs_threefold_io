@@ -12,7 +12,7 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
   { scale: 1.0,
     fill:"currentColor",
-    title: 'Proven Technology',
+    title: 'Part of a Worldwide Grid',
     Svg: require('@site/static/img/clouds.svg').default,
     description: (
       <>
@@ -22,21 +22,21 @@ const FeatureList: FeatureItem[] = [
   },
   { scale: 1.0,
     fill:"currentColor",
-    title: 'Nodes',
+    title: 'Get ThreeFold Nodes',
     Svg: require('@site/static/img/nodes.svg').default,
     description: (
       <>
-        Contribute to ThreeFold's growth by deploying nodes while earning rewards.
+        Get ThreeFold nodes to provide data, cloud and network resources to the world.
       </>
     ),
   },
   { scale: 1.0,
     fill:"currentColor",
-    title: 'OurPhone',
-    Svg: require('@site/static/img/cellphone.svg').default,
+    title: 'Earn Rewards',
+    Svg: require('@site/static/img/rewards.svg').default,
     description: (
       <>
-        Get the world's first truly decentralized smartphone
+        Deploy nodes and contribute to the growth of the ThreeFold Platform to earn rewards!
       </>
     ),
   },

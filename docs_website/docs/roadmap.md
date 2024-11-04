@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Roadmap
 
-ThreeFold built a self-healing data, network and cloud platform. This platform is a complete and cohesive system providing a viable and efficient alternative to current mainstream clouds. 
+ThreeFold is building a self-healing data, network and cloud platform. This platform is a complete and cohesive system providing a viable and efficient alternative to current mainstream clouds. 
 
 The whole is bigger than the sum of its parts with this project, as all components interact together to form a cohesive and complete data, network and cloud system.
 
@@ -18,37 +18,35 @@ After more than a decade of work and creation, our vision hasn't changed: we are
 
 We are making significant progress towards realizing this vision. We present here the currently available features and the features that will be available in a near future.
 
-### Completed
+## Completed & Ongoing
 
 ThreeFold has built the foundation for a peer-to-peer cloud platform. Currently, the ThreeFold grid is in more than 50 countries with thousands of nodes online providing data, network and cloud resources to users. 
 
 Anyone can become a farmer and contribute to the expansion of the grid. We've built planetary-scale quantum safe storage and network systems. Our technology has been in production for years and ThreeFold provides modern cloud features to users worldwide.
 
-- [x] ThreeFold Decentralized Cloud
-- [x] ThreeFold Dashboard
-- [x] ThreeFold Connect
-- [x] ThreeFold Nodes
-- [x] Quantum Safe File System
-- [x] Mycelium Quantum Safe Network
-- [x] Mycelium Web2 Gateway
-- [x] Mycelium Message Bus
+Furthermore, ThreeFold is actively working on amazing features that will be sooner than later available on the ThreeFold platform. Many of those features are well on their way and we will update our community with news and updates.
 
-### Ongoing
-
-ThreeFold is actively working on amazing features that will be sooner than later available on the ThreeFold platform. Many of those features are well on their way and we will update our community with news and updates.
-
-- [ ] ThreeFold Phones
-- [ ] ThreeFold Marketplace
-- [ ] ThreeFold Magic Cloud Node Cluster
-- [ ] Mycelium Naming Services
-- [ ] Mycelium Wifi Integration
-- [ ] Mycelium Routers
-- [ ] Mycelium Video Conferencing 
-- [ ] Mycelium Chat
-- [ ] Mycelium CDN
-- [ ] Mycelium VPN
-- [ ] Mycelium Web3 Gateway
-- [ ] Hero AI Assistant
+| Status    | System Component |
+|-----------|--------------|
+| ✓ Completed | ThreeFold Decentralized Cloud |
+| ✓ Completed | ThreeFold Dashboard |
+| ✓ Completed | ThreeFold Connect |
+| ✓ Completed | ThreeFold Nodes |
+| ✓ Completed | Quantum Safe File System |
+| ✓ Completed | Mycelium Quantum Safe Network |
+| ✓ Completed | Mycelium Web2 Gateway |
+| ✓ Completed | Mycelium Message Bus |
+| 🔄 Ongoing | ThreeFold Marketplace |
+| 🔄 Ongoing | ThreeFold Magic Cloud Node Cluster |
+| 🔄 Ongoing | Mycelium Naming Services |
+| 🔄 Ongoing | Mycelium Wifi Integration |
+| 🔄 Ongoing | Mycelium Routers |
+| 🔄 Ongoing | Mycelium Video Conferencing |
+| 🔄 Ongoing | Mycelium Chat |
+| 🔄 Ongoing | Mycelium CDN |
+| 🔄 Ongoing | Mycelium VPN |
+| 🔄 Ongoing | Mycelium Web3 Gateway |
+| 🔄 Ongoing | Hero AI Assistant |
 
 ## Component Details
 

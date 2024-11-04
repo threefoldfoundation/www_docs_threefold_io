@@ -4,7 +4,9 @@ sidebar_position: 1
 
 # Overview
 
-For ThreerFold V4, we are introducing a marketplace where farmers can offer resources and where third parties can use the grid infrastructure.
+For ThreeFold V4, we are introducing a marketplace where farmers can offer resources and where third parties can use the grid infrastructure.
+
+The ThreeFold Marketplace is planned for 2025.
 
 ## Benefits
 

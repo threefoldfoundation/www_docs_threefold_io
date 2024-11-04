@@ -44,7 +44,7 @@ Internet is currently not accessible to all. Indeed, the Internet is only availa
 
 Currently, for almost all countries, the Internet is GPD negative, meaning that the costs associated with building, maintaining, and securing the internet outweigh its economic benefits.
 
-See cables are the mode of transportation for internet data. With most large data centers being located in a handful of countries, nations are losing numerous benefits.
+Sea cables are the mode of transportation for internet data. With most large data centers being located in a handful of countries, nations are losing numerous benefits.
 
 This means that there is an amazingly high potential for countries to own their Internet infrastructure and systems. By implementing the technology developed by ThreeFold, the Internet GDP of countries can go from negative to positive.
 
@@ -56,7 +56,7 @@ The ThreeFold Grid is the result of more than 10 years of work by a dedicated te
 
 ### The Team
 
-We build on a successful track record. Indeed, our team has built some of the world's most advanced internet and cloud technologies that were later acquired by some of the biggeset names in the space for a cumulative of +USD 600 million and +44% IRR for our investors.
+We build on a successful track record. Indeed, our team has built some of the world's most advanced internet and cloud technologies that were later acquired by some of the biggeset names in the space for a cumulative of +USD 600 million.
 
 ![Alt text](./img/track_record.png)
 
@@ -118,7 +118,7 @@ While there are some partial solutions out there, most of the times, they never 
 
 ThreeFold literally offers an all-one solution to the current problems the world is facing in the IT and cloud world.
 
-We are not dreaming of a better Internet, we are building it. To fix at the root all thoses issues, Threefold built a self-healing cloud, network and data platform.
+We are not dreaming of a better Internet, we are building it. To fix at the root all thoses issues, ThreeFold built a self-healing cloud, network and data platform.
 
 ### The Layers of the Internet
 
@@ -128,7 +128,7 @@ The Internet can be seen as three main layers:
 - Network
 - Applications
 
-The ThreeFold platform ensures that those 3 layers are properly taken care of. The ThreeFold self-healing system has the capability to restore the Internet to its original purpose: unlimited collaboration and creativity, authentic information sharing without publicity, addition-free social networks, and more.
+The ThreeFold Platform ensures that those 3 layers are properly taken care of. The ThreeFold self-healing system has the capability to restore the Internet to its original purpose: unlimited collaboration and creativity, authentic information sharing without publicity, addition-free social networks, and more.
 
 ### The ThreeFold Engine
 
@@ -168,29 +168,21 @@ The ThreeFold Platform can provide products and services for this trillion dolla
 
 ## Products
 
-ThreeFold has developed products that make the most of the technology we've built over the years. Those products are as much for the end-users using the decentralized ultra-secure OurPhone smartphone, as for the cloud service provider hosting 3nodes on the grid. 
+ThreeFold has developed products that make the most of the technology we've built over the years. 
 
-The 3nodes are the backbone of the grid, as they offer compute, storage and network resources to users of the grid. The OurPhone taps the resource of the grid via the network mycelium. The ThreeFold line of product is really a direct proof of the power of the data, network and cloud system we've developed.
+The 3nodes are the backbone of the grid, as they offer compute, storage and network resources to users of the grid. The Marketplace allows people to buy and sell data, cloud and network resources.
 
 ### Nodes
 
-The beauty of the ThreeFold nodes is that they are completely autonomous and self-healing. It couldn't be any easier to host your own ThreeFold nodes. You simply need to connect the node to a power source and the Internet, and then power it on. The node will automatically connect to the grid and provide data, network and cloud to users of the ThreeFold platform.
+The beauty of the ThreeFold nodes is that they are completely autonomous and self-healing. It couldn't be any easier to host your own ThreeFold nodes. You simply need to connect the node to a power source and the Internet, and then power it on. The node will automatically connect to the grid and provide data, network and cloud to users of the ThreeFold Platform.
 
 ![Alt text](./img/plugnplay_nodes.png)
 
 Read the [Nodes](./category/nodes) section to learn more about how to host your own nodes on the grid.
 
-### Phones
-
-It can easily be said that OurPhone is the first truly decentralized smartphone. OurPhone™ is a new platform offering complete data ownership, quantum-safe storage, and decentralized apps (OurApps™) through its network, OurVerse™. This network is built on decentralized technology for speed, security, and user control. Users benefit from fully encrypted communication and edge computing for fast and secure experiences. 
-
-![Alt text](./img/ourphone.png)
-
-Read the [Phones](./category/phones) section to learn more about how to host your own nodes on the grid.
-
 ### Marketplace
 
-For the ThreerFold V4, we are introducing a marketplace where farmers can offer resources and where third parties can use the grid infrastructure. Farmers can define prices for cloud, compute and storage slices. The marketplace has mimimum and maximum price range for each type of slice to avoid abuse and ensure a fair market.
+For the ThreeFold V4, we are introducing a marketplace where farmers can offer resources and where third parties can use the grid infrastructure. Farmers can define prices for cloud, compute and storage slices. The marketplace has mimimum and maximum price range for each type of slice to avoid abuse and ensure a fair market.
 
 Read the [Marketplace](./category/marketplace) section to learn more about how to host your own nodes on the grid.
 
@@ -198,37 +190,25 @@ Read the [Marketplace](./category/marketplace) section to learn more about how t
 
 The ThreeFold technology is the best of both worlds. You can get the benefits of both the protocols and the centralized data centers without any of the downsides.
 
-The figure below compares the ThreeFold platform with the protocols and centralized data centers.
+The figure below compares the ThreeFold Platform with the protocols and centralized data centers.
 
 ![](./img/platform_comparison.png)
 
-## Augmented Collective Intelligence
+## ThreeFold Platform
 
-At ThreeFold, we are building an augmented collective intelligence to solve tomorrow's problems with tomorrow's intelligence.
-
-While artificial general intelligence is on its way, we believe that a proportionate and effective answer is to build for everyone an augmented collective intelligence for making humans more intelligent. The Augmented Collective Intelligence harnesses the emergent intelligece of large numbers of people and AI-powered machines, all connected in a distributed architecture.
-
-While Artificial General Intelligence is based on AI: machine learning, neural networks, semantic, code and images, Augmented Collective Intelligence is both rooted in AI as described previously, but also has a strong focus on human-machine networks, knowledge graphs, symbolic and abstract reasoning.
-
-In essence, Augmented Collective Intelligence incorporates both the laser-sharp effectivness of AI and also the inspired and intuitive thinking of the humand mind.
-
-This Augmented Collective Intelligence is possible thanks to the ThreeFold's cloud, network and AI capabilities of the grid. 
-
-## ThreeFold Cloud
-
-It all starts with the ThreeFold Cloud. The ThreeFold Cloud offers edge AI and a complete cloud platform. This enables anyone in the world to access the nearest ThreeFold nodes via the Mycelium network, always finding the shortest path.
+It all starts with the ThreeFold Platform. The ThreeFold Platform offers edge AI and a complete cloud platform. This enables anyone in the world to access the nearest ThreeFold nodes via the Mycelium network, always finding the shortest path.
 
 You can deploy a ThreeFold node in your home, in a datacenter or in any commercial settings. ThreeFold nodes can host the ThreeFold AI assistant called Hero, helping you in everyday task and enterprises while always being secure, encrypted and private. 
 
-The nodes within the grid, connected via the Mycelium network, enhanced by the Hero AI assistant create a complementary unbreakable Internet compatible with the current one. This means that you can harness the full potential of the current Internet and the culmulation of humankind knowledge via the ThreeFold Cloud Engine: privately and securely 
+The nodes within the grid, connected via the Mycelium network, enhanced by the Hero AI assistant create a complementary unbreakable Internet compatible with the current one. This means that you can harness the full potential of the current Internet and the culmulation of humankind knowledge via the ThreeFold Platform Engine privately and securely.
 
 ### System Components
 
 To enable a truly decentralized peer-to-peer Internet, all the components must fall into place and build on each other. The complete work is not done yet, but we can gladly say that over the years, we've built at ThreeFold the foundation for this grand vision. 
 
-When all components of the ThreeFold platform will be built and in production, at this point we will represent a truly viable and accessible alternative to the current cloud, data and network market, an alternative that protects user's privacy, that is secure, energy-efficient and evolutive.
+When all components of the ThreeFold Platform will be built and in production, at this point we will represent a truly viable and accessible alternative to the current cloud, data and network market, an alternative that protects user's privacy, that is secure, energy-efficient and evolutive.
 
-The ThreeFold platform is a whole composed of the following components: 
+The ThreeFold Platform is a whole composed of the following components: 
 
 - ThreeFold Decentralized Cloud
 - ThreeFold Dashboard
@@ -238,7 +218,6 @@ The ThreeFold platform is a whole composed of the following components:
 - Mycelium Quantum Safe Network
 - Mycelium Web2 Gateway
 - Mycelium Message Bus
-- ThreeFold Phones
 - ThreeFold Marketplace
 - ThreeFold Magic Cloud Node Cluster
 - Mycelium Naming Services
@@ -252,31 +231,6 @@ The ThreeFold platform is a whole composed of the following components:
 - Hero AI Assistant
 
 Check the [Roadmap](./roadmap.md) to consult the current status for each component. Read the [System Components](./category/system-components) section to learn about each individual components and their use cases.
-
-### Use Cases
-
-The ThreeFold ecosystem throughout the years developed and built strong partnerships and projects over the world.
-
-Among endless use cases, here is a list of active partnerships and use cases:
-
-- Tier S Datacenter
-  - Ultra-secure and energy efficient (up to 40% lower OPEX) data center solutions
-- Holochain
-  - Peer-to-peer transaction layer and Dapp layer on top of TFGrid 
-- Digital Freezone
-  - A digital freezone made for hundreds of millions of people
-- Tanzania Sovereign Internet
-  - A sovereign Internet for a country 
-- Mkondo
-  - Most realistic rendering of VR/AR env on top of TFGrid
-- Vindo
-  - Collaborative metaverse, best quality at low bandwidth 
-- Vverse
-  - Virtual reality museum 
-- Sikana 
-  - Virtual learning platfrom
-
-Read the [Use Cases](./category/use-cases) section to explore what you can with the ThreeFold platform and what will be possible in the future.
 
 ## The Internet as Hope for Humanity
 
