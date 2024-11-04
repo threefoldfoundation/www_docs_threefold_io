@@ -3,7 +3,7 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'ThreeFold',
+  title: 'ThreeFold V4',
   tagline: 'Self-Healing Data, Network & Cloud Platform',
   favicon: 'img/logo_blue.svg',
 
@@ -94,7 +94,7 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/threefold-social-card.png',
     navbar: {
-      title: 'ThreeFold',
+      title: 'ThreeFold V4',
       logo: {
         alt: 'ThreeFold Logo',
         src: 'img/logo.svg',
@@ -126,6 +126,10 @@ const config: Config = {
           title: 'Docs',
           items: [
             {
+              label: 'Introduction',
+              to: '/docs/introduction',
+            },
+            {
               label: 'Litepaper',
               to: '/docs/litepaper',
             },
@@ -137,19 +141,11 @@ const config: Config = {
               label: 'References',
               to: '/docs/category/references',
             },
-            {
-              label: 'Legal',
-              to: '/docs/category/legal',
-            },
           ],
         },
         {
           title: 'Products',
           items: [
-            {
-              label: 'Phones',
-              to: '/docs/category/phones',
-            },
             {
               label: 'Nodes',
               to: '/docs/category/nodes',
