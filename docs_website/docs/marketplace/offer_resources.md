@@ -42,7 +42,9 @@ The tokens received as rewards are locked up for 24 months, or until 40% used of
 
 - The minimum CPU passmark per GB of memory is 200
 - The minimum GB of memory is 16GB
-- The minimum TB of SSD is 2TB
+- The minimum TB of SSD is 1TB
+
+While it is not explicitly required, we recommend using DDR5 for the memory and having more than one SSD disk per node.
 
 ## Host Nodes
 
