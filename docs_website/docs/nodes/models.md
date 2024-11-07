@@ -21,7 +21,7 @@ There are currently 3 models of ThreeFold node available:
   - Intel Core Ultra 7 (Serie 1) 165H / 1.4 GHz tot 5 GHz, (16-cores) 22 vcpu
   - 96GB CL46 (2x 48GB) (6500 Mhz) DDR5
   - 4 TB Samsung 990 PRO (7450 Mbit/sec)
-  - HDD 2,0TB Seagate BarraCuda SATA3/128MB/5400rpm/7mm
+  - 4 TB Samsung 970 EVO 2,5 inch SSD
 
 ## Self-Healing and Autonomous
 
