@@ -12,7 +12,7 @@ Farmers and farming pools decide on their own price as long as it stays between 
 
 ## Utilization Rewards Distribution
 
-The utilization rewards are distribute in a fair and simple manner:
+The utilization rewards are distributed in a fair and simple manner:
 
 - 60% goes to the farmer hosting the node
   - As a reward to provide resources to users
