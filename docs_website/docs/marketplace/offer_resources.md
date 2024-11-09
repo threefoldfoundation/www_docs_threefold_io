@@ -10,19 +10,7 @@ Farmers offer data, network and cloud resources by hosting nodes on the ThreeFol
 
 Farmers and farming pools decide on their own price as long as it stays between the range specified in the [Use Resources](./use_resources.md) section.
 
-## Utilization Rewards Distribution
-
-The utilization rewards are distributed in a fair and simple manner:
-
-- 60% goes to the farmer hosting the node
-  - As a reward to provide resources to users
-  - Note: Without counting the guaranteed reward for 18 months
-- 20% goes to the Farming Pool
-  - As a reward to provide support, SLA, etc.
-- 20% to ThreeFold, Guardians, Validators
-  - As a reward to host, stabilize and secure the grid
-
-## ZOS V4 Certified Rewards
+## Capacity Rewards
 
 Farmers will get monthly rewards by providing resources to the ThreeFold Grid V4.
 
@@ -39,9 +27,19 @@ The following rewards are guaranteed for a 18-month period starting from activat
 The release mechanism is over a period of 36 months from the moment the node registers on the grid.
 
 - The first 11 months, all tokens are locked.
-  - If in the previous month, 40% or more of the node had utilization (vcore utilization), 4% of the total amount is unlocked in the next month.
 - The remaining 25 months, 4% of the total amount of tokens is unlocked monthly until all tokens are unlocked (25 * 4% = 100%).
-  - If in the previous month, 40% or more of the node had utilization (vcore utilization), 8% of the total amount is unlocked, instead of 4%, in the next month.
+
+## Utilization Rewards
+
+The utilization rewards are distributed in a fair and simple manner:
+
+- 60% goes to the farmer hosting the node
+  - As a reward to provide resources to users
+  - Note: Without counting the guaranteed reward for 18 months
+- 20% goes to the Farming Pool
+  - As a reward to provide support, SLA, etc.
+- 20% to ThreeFold, Guardians, Validators
+  - As a reward to host, stabilize and secure the grid
 
 ## Minimum Node Specs
 
