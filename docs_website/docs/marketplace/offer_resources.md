@@ -36,7 +36,12 @@ The following rewards are guaranteed for a 18-month period starting from activat
 | TB HDD | 7.0 |
 | TB Network | 30.0 | 
 
-The tokens received as rewards are locked up for 24 months, or until 40% used of the node is used for a whole month. There is a gradual release of tokens. The release schedule starts the moment the node is activated on the grid. The detailed reward release distribution will be communicated when it is clearly defined.
+The release mechanism is over a period of 36 months from the moment the node registers on the grid.
+
+- The first 11 months, all tokens are locked.
+  - If in the previous month, 40% or more of the node had utilization (vcore utilization), 4% of the total amount is unlocked in the next month.
+- The remaining 25 months, 4% of the total amount of tokens is unlocked monthly until all tokens are unlocked (25 * 4% = 100%).
+  - If in the previous month, 40% or more of the node had utilization (vcore utilization), 8% of the total amount is unlocked, instead of 4%, in the next month.
 
 ## Minimum Node Specs
 
