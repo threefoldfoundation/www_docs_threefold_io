@@ -3,12 +3,12 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'ThreeFold V4',
-  tagline: 'Self-Healing Data, Network & Cloud Platform',
+  title: 'Project Mycelium',
+  tagline: 'Self-Healing Data, Network & Cloud',
   favicon: 'img/logo_blue.svg',
 
   // Set the production url of your site here
-  url: 'https://docs.threefold.info',
+  url: 'https://docs.projectmycelium.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '',
@@ -16,7 +16,7 @@ const config: Config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'git.ourworld.tf/tftech', // Usually your GitHub org/user name.
-  projectName: 'docs_tfgrid4', // Usually your repo name.
+  projectName: 'docs_projectmycelium', // Usually your repo name.
   trailingSlash: false,
 
   onBrokenLinks: 'throw',
@@ -94,7 +94,7 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/threefold-social-card.png',
     navbar: {
-      title: 'ThreeFold V4',
+      title: 'Project Mycelium',
       logo: {
         alt: 'ThreeFold Logo',
         src: 'img/logo.svg',
@@ -113,8 +113,8 @@ const config: Config = {
           position: 'left',
         },
         {
-          href: 'https://threefold.io',
-          label: 'ThreeFold.io',
+          href: 'https://projectmycelium.io',
+          label: 'ProjectMycelium.io',
           position: 'right',
         },
       ],
@@ -181,6 +181,10 @@ const config: Config = {
           title: 'Links',
           items: [
             {
+              label: 'ProjectMycelium.io',
+              href: 'https://projectmycelium.io',
+            },
+            {
               label: 'ThreeFold.io',
               href: 'https://threefold.io',
             },
@@ -191,7 +195,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} ThreeFold`,
+      copyright: `Copyright © ${new Date().getFullYear()} Project Mycelium - ThreeFold`,
     },
     prism: {
       theme: prismThemes.github,
