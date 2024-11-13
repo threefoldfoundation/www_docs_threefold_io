@@ -15,8 +15,8 @@ const config: Config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'git.ourworld.tf/tftech', // Usually your GitHub org/user name.
-  projectName: 'docs_projectmycelium', // Usually your repo name.
+  organizationName: 'git.ourworld.tf/tfgrid', // Usually your GitHub org/user name.
+  projectName: 'www_docs_projectmycelium_io', // Usually your repo name.
   trailingSlash: false,
 
   onBrokenLinks: 'throw',
