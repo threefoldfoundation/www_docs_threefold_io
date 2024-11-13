@@ -26,7 +26,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/nodes.svg').default,
     description: (
       <>
-        Mycelium nodes, routers and phones create an end2end encrypted network.
+        Mycelium nodes, routers and phones create an end&#8209;to&#8209;end encrypted network.
       </>
     ),
   },
