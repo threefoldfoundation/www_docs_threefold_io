@@ -12,31 +12,31 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
   { scale: 1.0,
     fill:"currentColor",
-    title: 'Part of a Worldwide Grid',
+    title: 'Building Web 4',
     Svg: require('@site/static/img/clouds.svg').default,
     description: (
       <>
-        Discover the ThreeFold Grid, available in 60+ countries with thousands of nodes!
+        Laying the groundwork for Web 4, the next generation of the Internet.
       </>
     ),
   },
   { scale: 1.0,
     fill:"currentColor",
-    title: 'Get ThreeFold Nodes',
+    title: 'Mycelium Network',
     Svg: require('@site/static/img/nodes.svg').default,
     description: (
       <>
-        Get ThreeFold nodes to provide data, cloud and network resources to the world.
+        Mycelium nodes, routers and phones create an end2end encrypted network.
       </>
     ),
   },
   { scale: 1.0,
     fill:"currentColor",
-    title: 'Earn Rewards',
+    title: 'Community Rewards',
     Svg: require('@site/static/img/rewards.svg').default,
     description: (
       <>
-        Deploy nodes and contribute to the growth of the ThreeFold Platform to earn rewards!
+        The $INCA token has a distribution aimed at community growth and expansion.
       </>
     ),
   },
