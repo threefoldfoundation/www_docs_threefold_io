@@ -20,7 +20,7 @@ This repository contains the code to the ThreeFold Docs website.
 
 ## URL
 
-The website is hosted at `docs.threefold.info`.
+The website is hosted at `docs.threefold.io`.
 
 ## Branches
 
