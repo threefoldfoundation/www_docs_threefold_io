@@ -3,7 +3,7 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'Project Mycelium',
+  title: 'ThreeFold',
   tagline: 'Self-Healing Data, Network & Cloud',
   favicon: 'img/logo_blue.svg',
 
@@ -16,7 +16,7 @@ const config: Config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'git.ourworld.tf/tfgrid', // Usually your GitHub org/user name.
-  projectName: 'www_docs_projectmycelium_io', // Usually your repo name.
+  projectName: 'www_docs_threefold_io', // Usually your repo name.
   trailingSlash: false,
 
   onBrokenLinks: 'throw',
@@ -94,7 +94,7 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/threefold-social-card.png',
     navbar: {
-      title: 'Project Mycelium',
+      title: 'ThreeFold',
       logo: {
         alt: 'ThreeFold Logo',
         src: 'img/logo.svg',
@@ -113,8 +113,8 @@ const config: Config = {
           position: 'left',
         },
         {
-          href: 'https://projectmycelium.io',
-          label: 'ProjectMycelium.io',
+          href: 'https://threefold.io',
+          label: 'ThreeFold.io',
           position: 'right',
         },
       ],
@@ -147,12 +147,16 @@ const config: Config = {
           title: 'Products',
           items: [
             {
-              label: 'Nodes',
-              to: '/docs/category/nodes',
+              label: 'Phones',
+              to: '/docs/phones',
             },
             {
-              label: 'Marketplace',
-              to: '/docs/category/marketplace',
+              label: 'Nodes',
+              to: '/docs/nodes',
+            },
+            {
+              label: 'Routers',
+              to: '/docs/routers',
             },
           ],
         },
@@ -181,10 +185,6 @@ const config: Config = {
           title: 'Links',
           items: [
             {
-              label: 'ProjectMycelium.io',
-              href: 'https://projectmycelium.io',
-            },
-            {
               label: 'ThreeFold.io',
               href: 'https://threefold.io',
             },
@@ -195,7 +195,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Project Mycelium - ThreeFold`,
+      copyright: `Copyright © ${new Date().getFullYear()} ThreeFold`,
     },
     prism: {
       theme: prismThemes.github,
