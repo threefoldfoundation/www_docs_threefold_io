@@ -134,10 +134,6 @@ const config: Config = {
               to: '/docs/litepaper',
             },
             {
-              label: 'Roadmap',
-              to: '/docs/roadmap',
-            },
-            {
               label: 'References',
               to: '/docs/category/references',
             },
@@ -187,6 +183,10 @@ const config: Config = {
             {
               label: 'ThreeFold.io',
               href: 'https://threefold.io',
+            },
+            {
+              label: 'ThreeFold Cloud.io',
+              href: 'https://dashboard.grid.tf',
             },
             {
               label: 'GitHub',
