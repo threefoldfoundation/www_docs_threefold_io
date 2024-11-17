@@ -166,9 +166,9 @@ Countries are looking for solutions which are sovereign and allow them to restor
 
 The ThreeFold Platform can provide products and services for this trillion dollar market.
 
-## Products
+## Mycelium Network Components
 
-ThreeFold has developed products that make the most of the technology we've built over the years. 
+ThreeFold has developed network components that together provide a Web4 layer on top of the existing Internet. 
 
 ### Phones
 

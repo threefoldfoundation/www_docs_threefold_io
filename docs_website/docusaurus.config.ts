@@ -140,7 +140,7 @@ const config: Config = {
           ],
         },
         {
-          title: 'Products',
+          title: 'Components',
           items: [
             {
               label: 'Phones',
