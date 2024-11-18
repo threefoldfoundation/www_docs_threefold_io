@@ -4,7 +4,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'ThreeFold',
-  tagline: 'Self-Healing Data, Network & Cloud',
+  tagline: 'Self-Healing Data & Cloud Network',
   favicon: 'img/logo_blue.svg',
 
   // Set the production url of your site here
@@ -148,7 +148,7 @@ const config: Config = {
             },
             {
               label: 'Nodes',
-              to: '/docs/nodes',
+              to: '/docs/category/nodes',
             },
             {
               label: 'Routers',

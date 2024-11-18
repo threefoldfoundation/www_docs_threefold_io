@@ -33,7 +33,7 @@ export default function Home(): JSX.Element {
   return (
     <Layout
       title={`Home`}
-      description="Self-Healing Data, Network & Cloud">
+      description="Self-Healing Data & Cloud Network">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
