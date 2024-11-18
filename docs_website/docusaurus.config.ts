@@ -134,6 +134,10 @@ const config: Config = {
               to: '/docs/litepaper',
             },
             {
+              label: 'Roadmap',
+              to: '/docs/roadmap',
+            },
+            {
               label: 'References',
               to: '/docs/category/references',
             },
@@ -153,6 +157,10 @@ const config: Config = {
             {
               label: 'Routers',
               to: '/docs/routers',
+            },
+            {
+              label: 'Marketplace',
+              to: '/docs/category/marketplace',
             },
           ],
         },
