@@ -36,8 +36,16 @@ const config: Config = {
       {
         docs: {
           sidebarPath: './sidebars.ts',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
+          onlyIncludeVersions: ['V4', 'pre-V4'],
+          lastVersion: 'V4',
+          versions: {
+            'V4': {
+              label: 'V4',
+            },
+            'pre-V4': {
+              label: 'Pre-V4',
+            },
+          },
         },
         blog: {
           showReadingTime: true,
@@ -111,6 +119,10 @@ const config: Config = {
           to: '/support',
           label: 'Support',
           position: 'left',
+        },
+        {
+          type: 'docsVersionDropdown',
+          position: 'right',
         },
         {
           href: 'https://threefold.io',
