@@ -193,7 +193,7 @@ const config: Config = {
               href: 'https://threefold.io',
             },
             {
-              label: 'ThreeFold Cloud',
+              label: 'Dashboard',
               href: 'https://dashboard.grid.tf',
             },
             {
