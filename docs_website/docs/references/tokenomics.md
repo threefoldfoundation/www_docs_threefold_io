@@ -16,18 +16,27 @@ Comprising more than 70% of TFT to the community, the INCA tokenomics ensure tha
 
 The ThreeFold INCA tokenomics for the ThreeFold Grid 4.0 has been designed to promote a thriving ecosystem of cloud users, farmers, and validators. It presents a robust liquidity strategy that ensures seamless transfers and secure transactions within our cloud marketplace. Furthermore, by allocating 40 million tokens for farming grants, we're empowering individuals and organizations to contribute to the grid's growth and development.
 
-Our proof-of-utilization rewards system distributes 80% of rewards to farmers who contribute their resources to the grid, ensuring that they're fairly compensated for their participation. Additionally, 10% of rewards are allocated to the ThreeFold Cooperative and 10% to validator commercial partners, promoting a collaborative and mutually beneficial ecosystem. 100% of the proof-of-capacity rewards go to the farmers hosting nodes on the grid.
+The proof-of-utilization rewards are distributed in a simpler manner:
+
+- 60% goes to the farmer hosting the node
+  - As a reward to provide resources to users
+- 20% goes to the Farming Pool
+  - As a reward to provide support, SLA, etc.
+- 20% to ThreeFold, Guardians, Validators
+  - As a reward to host, stabilize and secure the grid
+
+The following chart provides an overview of the INCA ecosystem:
 
 ```mermaid
 flowchart TD
     A[Cloud User] -->|CHF/EUR/...| B(CLOUD MARKET PLACE<br>Discount based on position<br>in TF Liquidity Pool.)
     A[Cloud User] -->|CHF/EUR/...| B2((ThreeFold<br>Liquidity Pool))
     B2 -->|TFT or INCA| B
-    B -->|TFT or INCA| C{Proof Of Utilization}
-    G[FARMING GRANTS<br>40m Tokens / Month]-->  I{Proof Of Capacity<br>uptime, location, ...} --> D
-    C -->|80%| D[ThreeFold Farmers]
-    C -->|10%| E[ThreeFold Cooperative]
-    C -->|10%| F[Validators<br>Commercial Partners]
+    B -->|TFT or INCA| C{Proof of Utilization}
+    G[FARMING GRANTS<br>40m Tokens / Month]-->  I{Proof of Capacity<br>uptime, location, ...} --> D
+    C -->|60%| D[ThreeFold Farmers]
+    C -->|20%| E[Farming Pool]
+    C -->|20%| F[ThreeFold, Guardians, Validators]
   ```
 
 ## Distribution
@@ -77,17 +86,17 @@ Thanks to the liquidity pool, the price remains stable even if people decide to 
 
 ## TFT to INCA
 
-TFT holders can go to INCA based on following rules
+TFT holders can go to INCA based on following rules:
 
 - There is 1-1 relationship between TFT and INCA
-- TFT can only go to INCA not back.
+- TFT can only go to INCA, not back
 - There is vesting implemented over 2 years
 - TFT becomes INCAG token where the INCAG token has the following properties:
   - INCAG gives a given amount of INCA to be minted over 2 years
   - The distribution is of equal parts per month
   - The acceleration unlock rules are: 
-    - 10% when INCA token hits 0.5 USD longer than 1 month avg out
-    - 10% when INCA token hits 0.6 USD longer than 1 month avg out
+    - 10% when INCA token hits 0.5 USD longer than 1 month averaged out
+    - 10% when INCA token hits 0.6 USD longer than 1 month averaged out
     - This logic goes on 10% for each additional 0.1 USD increase until it reaches 100%
 
 
@@ -100,12 +109,10 @@ There are only two ways to get INCA tokens.
 
 ## Unlocking a Whole Ecosystem
 
-The INCA token allows anyone to access the ThreeFold Grid, to deploy cloud and AI workloads and to benefit from the Augmented Collective Intelligence of ThreeFold: make use of AI assistants to gather the power of LLM technology. Become smarter and more effective at everything you do by unlocking the power of AI.
+The INCA token allows anyone, anywhere, to access Project Mycelium, the fourth phase of ThreeFold. Project Mycelium is a self-healing data, network and cloud Internet insfrastructure laying the foundation for Web4. It is composed of nodes, routers and phones all connected over the Mycelium network, an end-to-end encrypted network working with, and in parallel to, the current Internet.
 
 ## Launching Soon
 
 The INCA token is launching soon, by the end of the year or in early 2025. 
-
-With the ThreeFold Grid V4, you will be able to deploy cloud and AI workloads on the grid, in more than 60 countries, over the quantum safe network Mycelium. You will be able to farm INCA nodes, offering cloud, AI and network resources to the world.
 
 Be among the first farmers to mint the new INCA tokens by reserving your INCA nodes.

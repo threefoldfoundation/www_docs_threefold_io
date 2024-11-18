@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Litepaper
 
-> *The following document presents the version 4 of ThreeFold, a self-healing data, network and cloud platform.*
+> *ThreeFold presents Project Mycelium, a self-healing data, network and cloud Internet insfrastructure laying the foundation for Web4.*
 
 ## Evolution of the Internet
 
@@ -166,25 +166,21 @@ Countries are looking for solutions which are sovereign and allow them to restor
 
 The ThreeFold Platform can provide products and services for this trillion dollar market.
 
-## Products
+## Mycelium Network Components
 
-ThreeFold has developed products that make the most of the technology we've built over the years. 
+ThreeFold has developed network components that together provide a Web4 layer on top of the existing Internet. 
 
-The 3nodes are the backbone of the grid, as they offer compute, storage and network resources to users of the grid. The Marketplace allows people to buy and sell data, cloud and network resources.
+### Phones
+
+> Coming soon. Project Mycelium Launch 12-12-24
 
 ### Nodes
 
-The beauty of the ThreeFold nodes is that they are completely autonomous and self-healing. It couldn't be any easier to host your own ThreeFold nodes. You simply need to connect the node to a power source and the Internet, and then power it on. The node will automatically connect to the grid and provide data, network and cloud to users of the ThreeFold Platform.
+> Coming soon. Project Mycelium Launch 12-12-24
 
-![Alt text](./img/plugnplay_nodes.png)
+### Routers
 
-Read the [Nodes](./category/nodes) section to learn more about how to host your own nodes on the grid.
-
-### Marketplace
-
-For the ThreeFold V4, we are introducing a marketplace where farmers can offer resources and where third parties can use the grid infrastructure. Farmers can define prices for cloud, compute and storage slices. The marketplace has mimimum and maximum price range for each type of slice to avoid abuse and ensure a fair market.
-
-Read the [Marketplace](./category/marketplace) section to learn more about how to host your own nodes on the grid.
+> Coming soon. Project Mycelium Launch 12-12-24
 
 ## Best of Both Worlds
 
@@ -201,36 +197,6 @@ It all starts with the ThreeFold Platform. The ThreeFold Platform offers edge AI
 You can deploy a ThreeFold node in your home, in a datacenter or in any commercial settings. ThreeFold nodes can host the ThreeFold AI assistant called Hero, helping you in everyday task and enterprises while always being secure, encrypted and private. 
 
 The nodes within the grid, connected via the Mycelium network, enhanced by the Hero AI assistant create a complementary unbreakable Internet compatible with the current one. This means that you can harness the full potential of the current Internet and the culmulation of humankind knowledge via the ThreeFold Platform Engine privately and securely.
-
-### System Components
-
-To enable a truly decentralized peer-to-peer Internet, all the components must fall into place and build on each other. The complete work is not done yet, but we can gladly say that over the years, we've built at ThreeFold the foundation for this grand vision. 
-
-When all components of the ThreeFold Platform will be built and in production, at this point we will represent a truly viable and accessible alternative to the current cloud, data and network market, an alternative that protects user's privacy, that is secure, energy-efficient and evolutive.
-
-The ThreeFold Platform is a whole composed of the following components: 
-
-- ThreeFold Decentralized Cloud
-- ThreeFold Dashboard
-- ThreeFold Connect
-- ThreeFold Nodes
-- Quantum Safe File System
-- Mycelium Quantum Safe Network
-- Mycelium Web2 Gateway
-- Mycelium Message Bus
-- ThreeFold Marketplace
-- ThreeFold Magic Cloud Node Cluster
-- Mycelium Naming Services
-- Mycelium Wifi Integration
-- Mycelium Routers
-- Mycelium Video Conferencing 
-- Mycelium Chat
-- Mycelium CDN
-- Mycelium VPN
-- Mycelium Web3 Gateway
-- Hero AI Assistant
-
-Check the [Roadmap](./roadmap.md) to consult the current status for each component. Read the [System Components](./category/system-components) section to learn about each individual components and their use cases.
 
 ## The Internet as Hope for Humanity
 

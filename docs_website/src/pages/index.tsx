@@ -20,7 +20,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/introduction">
-            Explore the Mycelium Network
+            Join the Web4 Adventure
           </Link>
         </div>
       </div>
@@ -33,7 +33,7 @@ export default function Home(): JSX.Element {
   return (
     <Layout
       title={`Home`}
-      description="Self-Healing Data, Network & Cloud">
+      description="Self-Healing Data & Cloud Network">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

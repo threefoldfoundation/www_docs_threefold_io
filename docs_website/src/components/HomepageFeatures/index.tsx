@@ -12,11 +12,11 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
   { scale: 1.0,
     fill:"currentColor",
-    title: 'Building Web 4',
+    title: 'Building Web4',
     Svg: require('@site/static/img/clouds.svg').default,
     description: (
       <>
-        Laying the groundwork for Web 4, the next generation of the Internet.
+        Laying the groundwork for Web4, the next generation of the Internet.
       </>
     ),
   },
@@ -36,7 +36,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/rewards.svg').default,
     description: (
       <>
-        The $INCA token has a distribution aimed at community growth and expansion.
+        The ecosystem rewards the community to foster growth and expansion.
       </>
     ),
   },
