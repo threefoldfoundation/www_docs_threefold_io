@@ -3,9 +3,9 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'ThreeFold',
+  title: 'ThreeFold Docs',
   tagline: 'Self-Healing Data & Cloud Network',
-  favicon: 'img/logo_official.svg',
+  favicon: 'img/favicon.png',
 
   // Set the production url of your site here
   url: 'https://docs.projectmycelium.io',
@@ -94,11 +94,11 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/threefold-social-card.png',
     navbar: {
-      title: 'THREEFOLD',
+      title: '',
       logo: {
         alt: 'ThreeFold Logo',
         src: 'img/logo.svg',
-        srcDark: 'img/logo_dark.svg',
+        srcDark: 'img/new_logo_tft.png',
       },
       items: [
         {
