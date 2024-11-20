@@ -202,7 +202,7 @@ const config: Config = {
             },
             {
               label: 'Gitea',
-              href: 'https://github.com/threefoldtech/home',
+              href: 'https://git.ourworld.tf',
             },
           ],
         },
