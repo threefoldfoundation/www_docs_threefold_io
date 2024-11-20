@@ -6,7 +6,7 @@
 
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #265fb4a6;
+  --ifm-color-primary: #2e83ff;
   --ifm-color-primary-dark: #29784c;
   --ifm-color-primary-darker: #277148;
   --ifm-color-primary-darkest: #205d3b;
@@ -14,62 +14,42 @@
   --ifm-color-primary-lighter: #359962;
   --ifm-color-primary-lightest: #3cad6e;
   --ifm-code-font-size: 95%;
-  --svg-fill-color: #141515; /* Black fill for light mode */
+  --svg-fill-color: #2a2021; /* Black fill for light mode */
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
-  .footer {
-    background-color: #ffffff;
-  }
-  .footer a,
-  .footer p,
-  .footer span,
-  .footer div {
-    color: #131213; /* Example: Light gray text for dark mode */
-  }
-  img.svg-icon {
-    fill: var(--svg-fill-color); /* Apply the color variable */
-  }
-  .navbar {  /* or .navbar--fixedTop if it has that class */
-    background-color: #ffffff;
-  }
-  .navbar__link {  /* Example: for navbar links */
-    color: #131213;
-  }
 }
 
 /* Dark mode styles */
 html[data-theme="dark"] {
-  --svg-fill-color: #fffff; /* White fill for dark mode */
+  --svg-fill-color: #fff; /* White fill for dark mode */
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
-  --ifm-color-primary: #8da5c9c0;
+  --ifm-color-primary: #6f6f83;
   --ifm-color-primary-dark: #21af90;
   --ifm-color-primary-darker: #1fa588;
-  --ifm-color-primary-darkest: #1dcfa9;
+  --ifm-color-primary-darkest: #1a8870;
   --ifm-color-primary-light: #29d5b0;
   --ifm-color-primary-lighter: #32d8b4;
   --ifm-color-primary-lightest: #4fddbf;
-  --svg-fill-color: #fffff; /* White fill for dark mode */
-  --docusaurus-highlighted-code-line-bg: #141515;
-  .footer {
-    background-color: #131213;
-  }
-  .footer a,
-  .footer p,
-  .footer span,
-  .footer div {
-    color: #ffffff; /* Example: Light gray text for dark mode */
-  }
-  img.svg-icon {
-    fill: var(--svg-fill-color); /* Apply the color variable */
-  }
-  .navbar {  /* or .navbar--fixedTop if it has that class */
-    background-color: #131213;
-  }
-  .navbar__link {  /* Example: for navbar links */
-    color: #ffffff;
-  }
-
+  --svg-fill-color: #fff; /* White fill for dark mode */
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
-
+.footer {
+  background-color: #131213;
+}
+.footer a,
+.footer p,
+.footer span,
+.footer div {
+  color: #ffffff; /* Example: Light gray text for dark mode */
+}
+.navbar {  /* or .navbar--fixedTop if it has that class */
+  background-color: #131213;
+}
+.navbar__link {  /* Example: for navbar links */
+  color: #ffffff;
+}
+img.svg-icon {
+  fill: var(--svg-fill-color); /* Apply the color variable */
+}

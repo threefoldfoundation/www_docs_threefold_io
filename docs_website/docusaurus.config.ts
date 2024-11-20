@@ -5,7 +5,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'ThreeFold',
   tagline: 'Self-Healing Data & Cloud Network',
-  favicon: 'img/logo_blue.svg',
+  favicon: 'img/logo_official.svg',
 
   // Set the production url of your site here
   url: 'https://docs.projectmycelium.io',
@@ -88,7 +88,7 @@ const config: Config = {
 
     colorMode: {
       defaultMode: 'dark',
-      disableSwitch: false,
+      disableSwitch: true,
       respectPrefersColorScheme: false,
     },
     // Replace with your project's social card
