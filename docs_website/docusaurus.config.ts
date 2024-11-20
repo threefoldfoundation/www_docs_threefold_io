@@ -87,7 +87,7 @@ const config: Config = {
     },
 
     colorMode: {
-      defaultMode: 'light',
+      defaultMode: 'dark',
       disableSwitch: false,
       respectPrefersColorScheme: false,
     },
@@ -202,7 +202,7 @@ const config: Config = {
             },
             {
               label: 'Gitea',
-              href: 'https://git.ourworld.tf/',
+              href: 'https://git.ourworld.tf',
             },
           ],
         },
