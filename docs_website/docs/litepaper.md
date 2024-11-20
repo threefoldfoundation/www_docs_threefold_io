@@ -6,8 +6,6 @@ sidebar_position: 2
 
 > *ThreeFold presents Project Mycelium, a self-healing data, network and cloud Internet insfrastructure laying the foundation for Web4.*
 
-# ![|640x456.89972513675843](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdxe-bOae_qPzz_eHjjwqFVwD7KbOHXq_cG_3QuslDjZPrkKkAQGWbfxH3U1X27zBthn6DYRpqoDuQv4ufx5sp9YBP68_vZgAzT0YlaO4PaW-Uu2E2vlKW4v4cs9SgoM4dIYhdCOw?key=FFljbee7w6SKHobQaUuiib21)
-
 ## ThreeFold - Web4 Launch
 
 The Internet today has major problems: it’s less reliable than we think, spreads misinformation, lacks privacy and security, leaves 50% of the world poorly connected, and allows big tech to monitor and influence us. Ultimately, it enables the powerful to become even more powerful.

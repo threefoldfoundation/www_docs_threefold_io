@@ -4,6 +4,46 @@
  * work well for content-centric websites.
  */
 
+/* Add @font-face declarations for the Inter font */
+@font-face {
+  font-family: 'Inter';
+  font-weight: 400; /* Light */
+  font-style: normal;
+  src: url('/fonts/Inter_28pt-Light.ttf') format('truetype'); /* Corrected path */
+}
+
+@font-face {
+  font-family: 'Inter';
+  font-weight: 500; /* Regular */
+  font-style: normal;
+  src: url('/fonts/Inter_28pt-Regular.ttf') format('truetype'); /* Corrected path */
+}
+
+@font-face {
+  font-family: 'Inter';
+  font-weight: 600; /* Medium */
+  font-style: normal;
+  src: url('/fonts/Inter_28pt-Medium.ttf') format('truetype'); /* Corrected path */
+}
+
+/* Apply the Inter font globally */
+body {
+  font-family: 'Inter', sans-serif; /* Set the global font */
+  font-size: 18px;
+}
+
+/* Header styles - Medium weight for headers */
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 600; /* Medium weight for headers */
+  font-family: 'Inter', sans-serif; /* Set the global font */
+}
+
+/* Paragraph styles - Light weight for paragraphs */
+p {
+  font-weight: 400; /* Light weight for paragraphs */
+  font-family: 'Inter', sans-serif; /* Set the global font */
+}
+
 /* You can override the default Infima variables here. */
 :root {
   --ifm-color-primary: #2e83ff;

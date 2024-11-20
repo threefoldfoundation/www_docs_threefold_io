@@ -94,7 +94,7 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/threefold-social-card.png',
     navbar: {
-      title: 'ThreeFold',
+      title: 'THREEFOLD',
       logo: {
         alt: 'ThreeFold Logo',
         src: 'img/logo.svg',
