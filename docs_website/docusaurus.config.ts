@@ -200,6 +200,10 @@ const config: Config = {
               label: 'GitHub',
               href: 'https://github.com/threefoldtech/home',
             },
+            {
+              label: 'Gitea',
+              href: 'https://git.ourworld.tf/',
+            },
           ],
         },
       ],

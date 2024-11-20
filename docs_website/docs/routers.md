@@ -4,12 +4,4 @@ sidebar_position: 6
 
 # Routers
 
----
-
-<div align="center">
-  <strong>Coming Soon</strong>
-</div>
-<div align="center">
-  <strong>Launching 12-12-24</strong>
-</div>
----
+Register with a Farming pool and buy a Router and host it in a chosen location. You will be rewarded INCA-G tokens for doing so.

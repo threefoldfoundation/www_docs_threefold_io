@@ -6,7 +6,7 @@ sidebar_position: 1
 
 ---
 
-***ThreeFold is the only system in the world capable of delivering self-healing data, network and cloud at a planetary scale.***
+***ThreeFold is laying the foundation for Web4, the next generation of the Internet.***
 
 ---
 
@@ -18,6 +18,12 @@ sidebar_position: 1
 - [x] Provides 100% uptime
 - [x] Allows any machine and human to communicate over the shortest path
 
-This dream has come true: Project Mycelium, the fourth generation of ThreeFold, is a decentralized ecosystem for unbreakable data, peer-to-peer network, and autonomous cloud. 
+This dream has come true: Project Mycelium, the fourth generation of ThreeFold, is a decentralized and self-healing ecosystem for unbreakable data, peer-to-peer network, and autonomous cloud. 
 
-Read forward to learn more about this innovative system and how ThreeFold is laying the foundation for Web4.
+---
+
+***Project Mycelium is the only system in the world capable of delivering self-healing data, network and cloud at a planetary scale.***
+
+---
+
+Read forward to learn more about this innovative system and how you can build it with us.

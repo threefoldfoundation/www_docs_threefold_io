@@ -1,12 +1,12 @@
 ---
 title: Terms and Conditions
-description: Terms and Conditions for the Project INCA
+description: Terms and Conditions for ThreeFold
 sidebar_position: 1
 ---
 
-These Terms of Use constitute a legally binding agreement made between you, whether personally or on behalf of an entity (“you”) and ThreeFold, doing business as ThreeFold (“ThreeFold“, “we”, “us”, or “our”), concerning your access to and use of the threefold related websites:
+These Terms of Use constitute a legally binding agreement made between you, whether personally or on behalf of an entity (“you”) and ThreeFold, doing business as ThreeFold (“ThreeFold“, “we”, “us”, or “our”), concerning your access to and use of the ThreeFold related websites:
 
-The project INCA website, websites/wikis/forums ending with threefold.io, threefold.me, grid.tf, threefold.tech, TFT.com, freeflownation.org, 3bot.org, incubaid.com or consciousinternet.org or any other website as used/promoted by the ThreeFold Foundation or any other site as originating from our open-source git repository on https://github.com/threefoldfoundation, as well as any other media form, media channel, forum, mobile website or mobile application related, linked, or otherwise connected thereto (collectively, the “Site”).
+The ThreeFold website, websites/wikis/forums ending with threefold.io, threefold.me, grid.tf, threefold.tech, TFT.com, freeflownation.org, 3bot.org, incubaid.com or consciousinternet.org or any other website as used/promoted by the ThreeFold Foundation or any other site as originating from our open-source git repository on https://github.com/threefoldfoundation, as well as any other media form, media channel, forum, mobile website or mobile application related, linked, or otherwise connected thereto (collectively, the “Site”).
 
 You agree that by accessing the Site, you have read, understood, and agreed to be bound by all of these Terms of Use. 
 
