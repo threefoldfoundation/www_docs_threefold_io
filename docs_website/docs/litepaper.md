@@ -12,8 +12,6 @@ The Internet today has major problems: it’s less reliable than we think, sprea
 
 Web 4 is the next generation of the Internet. ThreeFold has been working on it for +10 years, with over $50 million in investment and more than 50,000 active virtual CPUs
 
-![|640x293](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdNNTGVeG1j26ppP0dObnoc1C5isGKfnHP3z69DsQoHrmrythWCVC-MbOjdOwq6SYU4K3oU5iPueM3uWHT9Gc2fZ6rrJiUXd-1Ilb51Wf-hURuivLiWOezUh82A6W35q7N5yfcDcw?key=FFljbee7w6SKHobQaUuiib21)
-
 Web 4 represents the natural evolution of the Internet, where humans and artificial intelligence collaborate to develop a new paradigm focused on [Augmented Collective Intelligence,](https://www.supermind.design/) aimed at advancing planetary well-being while making sure everyone has equal chances.
 
 ## Mission
@@ -85,7 +83,7 @@ To our knowledge, we are the world’s first project approaching a fully functio
 
 ## Status
 
-![|640x333](https://lh7-rt.googleusercontent.com/docsz/AD_4nXewbsf_eTGjwbxde2W_A6azMhJjbDCTShgl3WRLXKDuB4_GiFiI6uBBC4x3rRRvW027qeACd1zm0MOYEFt6-SV2VTi4o884OLg57x6x1RnEbt_VA8EO5Jd4GPBS51Fzhlinhgn5WQ?key=FFljbee7w6SKHobQaUuiib21)
+![](./img/docs_threefold_litepaper_1.png)
 
 The base layer network of capacity is active, the technology is working in generation 3,
 Read the [ThreeFold V3 Manual](https://manual.grid.tf/) to learn more about the ThreeFold Grid active in +50 countries.
@@ -100,7 +98,7 @@ The official announcement will be made on December 12, 2024.
 
 Our team has built some of the world’s most advanced Internet and cloud technologies that were later acquired by some of the biggest names in the space for a cumulative +USD 600 million and +44% IRR for our investors.
 
-![|640x311](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfsOHWMsZ9ZheQtpAU1IXSgaLmGgA-oeBHwzSaZk27eq23f0PQnFY9SF9BRP4jnMnCzfZhsKUJmWopU-0iq76qaYyQqdDTc3_qAzyour5HzZoIMzFPc0Z2lVV3Qq6oJLLz7mOiuJQ?key=FFljbee7w6SKHobQaUuiib21)
+![](./img/docs_threefold_litepaper_2.png)
 
 ## Actionable Items 12-12-24
 
@@ -262,15 +260,15 @@ The Cooperative will own the following tasks:
 
 The Cooperative helps establish Farming pools, which aggregate farmers.
 
-![|640x109](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfBj2pGTpls8k9gpi-wlcdBU7iOOnJwzov7irf46UaPq4N1IWS17RjT4bBNgVrPOlynZB5N8Ft6fs0BWhqSG65QJWT5TUucaXBer6yV5AfV-YeRo0VX-g2chWsc0lcPQfA5zkLjiBxX0Z-MDcuxkNjF6jdn?key=FFljbee7w6SKHobQaUuiib21)
+![](./img/docs_threefold_litepaper_3.png)
 
 This structure leads to good governance and lots of decentralization.
 
-![|640x81](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdIA9KX1LWEDUIldARtcPY3pfTnIWWOX2Bh-ujqAnejV--lxzGQJD3y4NTTOURAgZ4gi3lf9xfJoWhTRGK7yjvO5oS535AdMX_593IoEDxXg5ntDYPUGX-wEjQK8iv9VLP2ZCMXe53WeuySP4l3T44QP2mm?key=FFljbee7w6SKHobQaUuiib21)
+![](./img/docs_threefold_litepaper_4.png)
 
 Each farmer owns one of more Nodes or Routers and provides service in line to the specifications as defined on Farming Pool level. The Farmer earns rewards by providing capacity and gets a serious revenue cut from people paying for the services which run on top of their nodes & routers.
 
-![|640x107](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfX2jDNfu_RZSVJruY-8sDvJMCOxi1zoPN3T56qEUf-ofYtET9B6ouOFD3qSiHwV4PyyadKJ8FiWKeq4aI-jOf7ptJ21rS9HruD5eIpFx8VE1zey_HxZU5C8olPDb6mHKV3UPuApLt07KR4867JxJDzKbJR?key=FFljbee7w6SKHobQaUuiib21)
+![](./img/docs_threefold_litepaper_5.png)
 
 The ThreeFold Cooperative motivates different technical parties to run validators, which are our blockchain nodes which run our governance and reputation systems optionally some financial functions.
 
