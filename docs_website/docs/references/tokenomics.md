@@ -109,7 +109,7 @@ There are only two ways to get INCA tokens.
 
 ## Unlocking a Whole Ecosystem
 
-The INCA token allows anyone, anywhere, to access Project Mycelium, the fourth phase of ThreeFold. Project Mycelium is a self-healing data, network and cloud Internet insfrastructure laying the foundation for Web4. It is composed of nodes, routers and phones all connected over the Mycelium network, an end-to-end encrypted network working with, and in parallel to, the current Internet.
+The INCA token allows anyone, anywhere, to access the ThreeFold ecosystem. ThreeFold V4 is a self-healing data, network and cloud Internet insfrastructure laying the foundation for Web4. It is composed of nodes, routers and phones all connected over the Mycelium network, an end-to-end encrypted network working with, and in parallel to, the current Internet.
 
 ## Launching Soon
 
