@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Litepaper
 
-> *ThreeFold presents Project Mycelium, a self-healing data, network and cloud Internet insfrastructure laying the foundation for Web4.*
+> *ThreeFold is building a self-healing data, network and cloud Internet insfrastructure laying the foundation for Web4.*
 
 ## ThreeFold - Web4 Launch
 
