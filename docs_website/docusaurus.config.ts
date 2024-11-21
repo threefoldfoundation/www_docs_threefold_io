@@ -144,15 +144,15 @@ const config: Config = {
           ],
         },
         {
-          title: 'Components',
+          title: 'Features',
           items: [
+            {
+              label: 'Become a Farmer',
+              to: '/docs/category/become-a-farmer',
+            },
             {
               label: 'Phones',
               to: '/docs/phones',
-            },
-            {
-              label: 'Nodes',
-              to: '/docs/category/nodes',
             },
             {
               label: 'Routers',
@@ -160,7 +160,7 @@ const config: Config = {
             },
             {
               label: 'Marketplace',
-              to: '/docs/category/marketplace',
+              to: '/docs/marketplace',
             },
           ],
         },

@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 4
 ---
 
 # Roadmap
@@ -36,17 +36,7 @@ Furthermore, ThreeFold is actively working on amazing features that will be soon
 | ✓ Completed | Mycelium Quantum Safe Network |
 | ✓ Completed | Mycelium Web2 Gateway |
 | ✓ Completed | Mycelium Message Bus |
-| 🔄 Ongoing | ThreeFold Marketplace |
-| 🔄 Ongoing | ThreeFold Magic Cloud Node Cluster |
-| 🔄 Ongoing | Mycelium Naming Services |
-| 🔄 Ongoing | Mycelium Wifi Integration |
-| 🔄 Ongoing | Mycelium Routers |
-| 🔄 Ongoing | Mycelium Video Conferencing |
-| 🔄 Ongoing | Mycelium Chat |
-| 🔄 Ongoing | Mycelium CDN |
-| 🔄 Ongoing | Mycelium VPN |
-| 🔄 Ongoing | Mycelium Web3 Gateway |
-| 🔄 Ongoing | Hero AI Assistant |
+| 🔄 Ongoing | Stay Tuned... Launch 12.12.24 |
 
 ## Component Details
 
