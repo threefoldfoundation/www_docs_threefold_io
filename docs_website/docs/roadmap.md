@@ -42,7 +42,7 @@ ThreeFold is actively working on Web4 features for the ThreeFold V4 launch on 12
 | 🔄 TBD - Launch 12.12.24 | Web4 Router  |
 | 🔄 TBD - Launch 12.12.24 | Web4 Node  |
 | 🔄 TBD - Launch 12.12.24 | Web4 Development Platform  |
-| 🔄 TBD - Launch 12.12.24 | Web4 Digital Currency  |
+| 🔄 TBD - Launch 12.12.24 | Web4 Internet Currency  |
 | 🔄 TBD - Launch 12.12.24 | Web4 Marketplace  |
 
 ## Component Details
