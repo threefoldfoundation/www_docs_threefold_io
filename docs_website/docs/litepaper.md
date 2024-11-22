@@ -56,7 +56,7 @@ To our knowledge, we are the world’s first project approaching a fully functio
 
 * A group of people have made it their life's work to resolve this problem in a fundamental way.
 * This team, with 6 M&A exits to date, have established +5 world records and have in an opensource, transparent movement demonstrated that an autonomous cloud can be created
-(now comprising +55,000 vcpu’s across 60 countries).
+(now comprising +55,000 vcpu’s across 60 countries). To learn more about the ThreeFold technology, read the [ThreeFold Tech ebook](https://threefold.info/tech).
 * The DEPIN movement (Decentralized Physical infrastructure), in which we are a participant, is a promising movement but is still in its infancy, it might be a good way to expand faster and provide liquidity and an ecosystem for the participants.
 
 ## Status
