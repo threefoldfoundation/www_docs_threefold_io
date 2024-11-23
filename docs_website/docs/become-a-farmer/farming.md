@@ -4,7 +4,9 @@ description: An introduction to ThreeFold Farming
 sidebar_position: 1
 ---
 
-# What is Farming?
+![](become_farmer.png)
+
+> Become a contributor of Storage, Compute & Network capacity to the ThreeFold Network.
 
 ThreeFold Farming is a unique concept in the ThreeFold ecosystem where individuals, called farmers, can:
 

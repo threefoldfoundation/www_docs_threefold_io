@@ -4,6 +4,8 @@ sidebar_position: 1
 
 # Introduction
 
+![](become-a-farmer/become_farmer.png)
+
 ---
 
 ***ThreeFold is laying the foundation for Web4, the next generation of the Internet.***
