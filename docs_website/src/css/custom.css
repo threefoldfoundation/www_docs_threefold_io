@@ -51,6 +51,7 @@
 
 /* Apply the Inter font globally */
 body {
+  scroll-padding-top: 80px;
   font-family: 'Inter', sans-serif; /* Set the global font */
   font-size: 18px;
 }
@@ -110,6 +111,19 @@ html[data-theme="dark"] {
 .navbar {  /* or .navbar--fixedTop if it has that class */
   background-color: #131213;
 }
+
+/* Apply scroll margin to footnote targets */
+[data-footnote-ref="true"] {
+  scroll-margin-top: 80px; /* Adjust this value to match your navbar height */
+}
+
+/* Ensure navbar items and logo are vertically aligned */
+.navbar__logo {
+  display: flex;
+  align-items: center;  /* Center aligns the items vertically */
+  height: 100%;         /* Ensures full height for alignment */
+}
+
 .navbar__link {  /* Example: for navbar links */
   color: #ffffff;
 }

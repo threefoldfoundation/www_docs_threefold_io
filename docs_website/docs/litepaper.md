@@ -14,9 +14,13 @@ Web4 is the next generation of the Internet. ThreeFold has been working on it fo
 
 Web4 represents the natural evolution of the Internet, where humans and artificial intelligence collaborate to develop a new paradigm focused on Augmented Collective Intelligence[^1] aimed at advancing planetary well-being while making sure everyone has equal chances.
 
+[^1]: Augmented Collective Intelligence - Supermind [Link](https://www.supermind.design/)
+
 ## Mission
 
 Our Mission is to create the best possible infrastructure layer for Web 4.0[^2] with the following benefits:
+
+[^2]: Web4 - Techopedia [Link](https://www.techopedia.com/definition/web4)
 
 * Sovereignty for countries, communities and people
   * Data is close to the users in their own countries
@@ -129,6 +133,3 @@ At ThreeFold, we believe that the Internet represents an amazing opportunity tha
 We think that it is possible to collectively build and improve the Internet so as it unlocks its unlimited potential to humanity.
 
 ***Let's do it.***
-
-[^1]: Augmented Collective Intelligence - Supermind [Link](https://www.supermind.design/)
-[^2]: Web4 - Techopedia [Link](https://www.techopedia.com/definition/web4)
