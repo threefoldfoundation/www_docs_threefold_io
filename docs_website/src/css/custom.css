@@ -51,7 +51,6 @@
 
 /* Apply the Inter font globally */
 body {
-  scroll-padding-top: 80px;
   font-family: 'Inter', sans-serif; /* Set the global font */
   font-size: 18px;
 }
