@@ -1,7 +1,7 @@
 ---
-sidebar_position: 10
+sidebar_position: 13
 ---
 
 # ThreeFold Marketplace
 
-The ThreeFold Marketplace component of the ThreeFold Platform is the online place to buy and sell cloud, data and network resources running on the ThreeFold Grid.
+> More information will be shared at the ThreeFold V4 launch on 12.12.24

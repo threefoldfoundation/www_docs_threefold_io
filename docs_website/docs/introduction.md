@@ -18,7 +18,9 @@ sidebar_position: 1
 - [x] Provides 100% uptime
 - [x] Allows any machine and human to communicate over the shortest path
 
-This dream has come true: The fourth generation of ThreeFold is a decentralized and self-healing ecosystem for unbreakable data, peer-to-peer network, and autonomous cloud. 
+**This dream has come true.**
+
+The fourth generation of ThreeFold is a decentralized and self-healing ecosystem for unbreakable data, peer-to-peer network, and autonomous cloud. ThreeFold V4 is laying the foundation for Web4.
 
 ---
 

@@ -75,16 +75,6 @@ const config: Config = {
 
   themeConfig: {
 
-    algolia: {
-      // The application ID provided by Algolia
-      appId: 'MOZ4II24U5',
-
-      // Public API key: it is safe to commit it
-      apiKey: 'c9ee6a2a3212b6bdcf453149f45c9114',
-
-      indexName: 'threefold',
-
-    },
 
     colorMode: {
       defaultMode: 'dark',
@@ -144,15 +134,15 @@ const config: Config = {
           ],
         },
         {
-          title: 'Components',
+          title: 'Features',
           items: [
+            {
+              label: 'Become a Farmer',
+              to: '/docs/category/become-a-farmer',
+            },
             {
               label: 'Phones',
               to: '/docs/phones',
-            },
-            {
-              label: 'Nodes',
-              to: '/docs/category/nodes',
             },
             {
               label: 'Routers',
@@ -160,7 +150,7 @@ const config: Config = {
             },
             {
               label: 'Marketplace',
-              to: '/docs/category/marketplace',
+              to: '/docs/marketplace',
             },
           ],
         },

@@ -1,10 +1,12 @@
 ---
-sidebar_position: 3
+sidebar_position: 4
 ---
 
 # Roadmap
 
-ThreeFold is building a self-healing data, network and cloud platform. This platform is a complete and cohesive system providing a viable and efficient alternative to current mainstream clouds. 
+ThreeFold is on its way to build Web4, the natural evolution of the Internet, where humans and artificial intelligence collaborate to develop a new paradigm aimed at advancing planetary well-being while making sure everyone has equal chances.
+
+To achieve this, ThreeFold is building a self-healing data, network and cloud ecosystem composed of phones, routers and nodes. This platform is a complete and cohesive system providing a viable and efficient alternative to current mainstream clouds. 
 
 The whole is bigger than the sum of its parts with this project, as all components interact together to form a cohesive and complete data, network and cloud system.
 
@@ -20,11 +22,11 @@ We are making significant progress towards realizing this vision. We present her
 
 ## Completed & Ongoing
 
-ThreeFold has built the foundation for a peer-to-peer cloud platform. Currently, the ThreeFold grid is in more than 50 countries with thousands of nodes online providing data, network and cloud resources to users. 
+ThreeFold has built the foundation for a peer-to-peer cloud platform. Currently, the ThreeFold grid is in more than 60 countries with thousands of nodes online providing data, network and cloud resources to users. 
 
 Anyone can become a farmer and contribute to the expansion of the grid. We've built planetary-scale quantum safe storage and network systems. Our technology has been in production for years and ThreeFold provides modern cloud features to users worldwide.
 
-Furthermore, ThreeFold is actively working on amazing features that will be sooner than later available on the ThreeFold platform. Many of those features are well on their way and we will update our community with news and updates.
+ThreeFold is actively working on Web4 features for the ThreeFold V4 launch on 12.12.24.
 
 | Status    | System Component |
 |-----------|--------------|
@@ -36,17 +38,12 @@ Furthermore, ThreeFold is actively working on amazing features that will be soon
 | ✓ Completed | Mycelium Quantum Safe Network |
 | ✓ Completed | Mycelium Web2 Gateway |
 | ✓ Completed | Mycelium Message Bus |
-| 🔄 Ongoing | ThreeFold Marketplace |
-| 🔄 Ongoing | ThreeFold Magic Cloud Node Cluster |
-| 🔄 Ongoing | Mycelium Naming Services |
-| 🔄 Ongoing | Mycelium Wifi Integration |
-| 🔄 Ongoing | Mycelium Routers |
-| 🔄 Ongoing | Mycelium Video Conferencing |
-| 🔄 Ongoing | Mycelium Chat |
-| 🔄 Ongoing | Mycelium CDN |
-| 🔄 Ongoing | Mycelium VPN |
-| 🔄 Ongoing | Mycelium Web3 Gateway |
-| 🔄 Ongoing | Hero AI Assistant |
+| 🔄 TBD - Launch 12.12.24 | Web4 Phone  |
+| 🔄 TBD - Launch 12.12.24 | Web4 Router  |
+| 🔄 TBD - Launch 12.12.24 | Web4 Node  |
+| 🔄 TBD - Launch 12.12.24 | Web4 Development Platform  |
+| 🔄 TBD - Launch 12.12.24 | Web4 Internet Currency  |
+| 🔄 TBD - Launch 12.12.24 | Web4 Marketplace  |
 
 ## Component Details
 
