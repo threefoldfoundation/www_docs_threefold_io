@@ -149,9 +149,9 @@ const config: Config = {
               to: '/docs/routers',
             },
             {
-              label: 'Marketplace',
-              to: '/docs/marketplace',
-            },
+              label: 'Tokenomics',
+              to: '/docs/tokenomics',
+            },            
           ],
         },
         {

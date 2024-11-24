@@ -4,7 +4,9 @@ description: Data, Storage and Cloud Node
 sidebar_position: 1
 ---
 
-The ThreeFold Nodes are self-healing and autonomoue. They provide data, network and cloud resources to the ThreeFold Platform, and you get rewards for hosting them. Not only that, but each node provides a perfect mix of modern technology and carefully crafted design:
+The ThreeFold Nodes are self-healing and autonomoue. They provide data, network and cloud resources to the ThreeFold Grid, and you get rewards for hosting them.
+
+![](../img/threefold_parts.png)
 
 - **A new bare metal operating system**
   - Zero-OS supports all required Web2 and Web3 workloads and allows millions of nodes to operate in full autonomous mode providing lower cost, better energy efficiency, more reliability and security.

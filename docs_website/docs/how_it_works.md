@@ -4,15 +4,42 @@ sidebar_position: 2
 
 # How It Works
 
-![](become-a-farmer/become_farmer.png)
-
-
 ## What is the ThreeFold Grid?
 
-The ThreeFold Grid 
+A decentralized Web4 Infrastructure layer which allows us to build Web4 by everyone for everyone.
+
+**The layer is called The ThreeFold Grid and ...**
+
 - is capable of delivering self-healing data, network and cloud at a planetary scale.
 - allows everyone, everywhere to deploy their own sovereign Internet infrastructure. 
-- has been live as working proof of concept over 3 versions with thousands of nodes online.
+- allows everyone to build the applications of the future (10x less effort, 10x more security)
+- operational for years as working proof of concept with thousands of nodes online ([dashboard](https://dashboard.grid.tf)).
+
+## Participants
+
+### FARMERS (providers)
+
+![](become-a-farmer/become_farmer.png)
+
+- Individual and Commercial Farmers connect hardware capacity to the ThreeFold Grid and earn rewards for doing so.
+- Over the next years Millions of nodes will be connected to the existing network ([dashboard](https://dashboard.grid.tf)).
+- Our Network technology provides a end2end encrypted and ultra reliable connection layers.
+- Our Storage technology makes sure we can never loose our data and our privacy is guaranteed.
+
+
+### DEVELOPERS & SYSTEM ADMINISTRATORS (users)
+
+
+![](img/users_all.png)
+
+Our platform is usable by a lot of usecases.
+
+- Web2 System Administrators can deploy any application on the grid with tools they are used too.
+- Web3 Enthousiasts can run their blockchain workdloads on the grid.
+- Web4 Developers build the apps (experiences) of the future.
+
+![](img/users.png)
+
 
 ## Web4 Decentralized Architecture
 
@@ -50,18 +77,23 @@ With a *planet and people-first* philosophy, ThreeFold proposes a new way forwar
 
 ## Technical Foundation
 
-1[](img/zos.png)
+![](img/threefold_parts.png)
 
 ThreeFold has built core technologies over the years.
 
-- Blockchain-based resource allocation with the ThreeFold Chain (TFChain)
-- Secure, transparent transaction mechanisms thanks to smart contracts
 - Zero-OS: Custom lightweight operating system for nodes built on the Linux kernel
-- Self-healing and automated resource management via bare metal ThreeFold nodes
-- End-to-end encrypted network always using the shortest path
-- Storage resistant to quantum computer attacks
+  - Self-healing and automated resource management via bare metal ThreeFold nodes
+- ThreeFold Grid: End-to-end encrypted network always using the shortest path
+- Quantum Safe Storage resistant to quantum computer attacks and data can never be lost.
+- Hero Agent (v4): Ready to build the apps of the future in full compatibility with web3. 
+- Smart Contract for IT: Blockchain-based resource allocation with signed contracts.
+  - Secure, transparent transaction mechanisms for deployment of solutions on the ThreeFold Grid.
 
-## Flows
+![](img/zos.png)
+
+> see [https://dev2.threefold.io/what/](https://dev2.threefold.io/what/)
+
+### Process
 
 - Farmers deploy nodes to the ThreeFold Grid providing data, network and cloud resources
 - Resources are verified via the **Proof-of-Capacity** minting protocol and made available for workload deployments

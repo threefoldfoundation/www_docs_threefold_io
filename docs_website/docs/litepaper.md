@@ -1,24 +1,24 @@
 ---
-sidebar_position: 2
+sidebar_position: 8
 ---
 
-# Litepaper
+# Litepaper (draft)
 
 > *ThreeFold is building a self-healing data, network and cloud Internet infrastructure laying the foundation for Web4.*
 
 ## ThreeFold V4 - Web4 Launch
 
-The Internet today has major problems: it’s less reliable than we think, lacks privacy and security, leaves 50% of the world poorly connected, and allows big tech to monitor and influence us. Ultimately, it enables the powerful to become even more powerful.
+The Internet today has major problems: it's less reliable than we think, lacks privacy and security, leaves 50% of the world poorly connected, and allows big tech to monitor and influence us. Ultimately, it enables the powerful to become even more powerful.
 
 Web4 is the next generation of the Internet. ThreeFold has been working on it for +10 years, with over $50 million in investment and more than 50,000 active virtual CPUs.
 
-Web4 represents the natural evolution of the Internet, where humans and artificial intelligence collaborate to develop a new paradigm focused on Augmented Collective Intelligence[^1] aimed at advancing planetary well-being while making sure everyone has equal chances.
+Web4 represents the natural evolution of the Internet, where humans and artificial intelligence collaborate to develop a new paradigm focused on Augmented Collective Intelligence [^1] aimed at advancing planetary well-being while making sure everyone has equal chances.
 
 [^1]: Augmented Collective Intelligence - Supermind [Link](https://www.supermind.design/)
 
 ## Mission
 
-Our Mission is to create the best possible infrastructure layer for Web 4.0[^2] with the following benefits:
+Our Mission is to create the best possible infrastructure layer for Web 4.0 [^2] with the following benefits:
 
 [^2]: Web4 - Techopedia [Link](https://www.techopedia.com/definition/web4)
 
@@ -106,7 +106,7 @@ To sustain this whole Web4 ecosystem, ThreeFold V4 will be rooted in a Web4 Inte
 
 To propel Web4, ThreeFold V4 envisions a a marketplace where people can offer and use cloud, data and network resources.
 
-> More information will be shared at the ThreeFold V4 launch on 12.12.24
+> More information will be shared at the ThreeFold Web4 launch on 12.12.24
 
 ## Public Launch
 
@@ -116,15 +116,15 @@ The official announcement will be made on December 12, 2024.
 
 ## Actionable Items 12-12-24
 
-> More information will be shared at the ThreeFold V4 launch on 12.12.24
+> More information will be shared at the ThreeFold Web4 launch on 12.12.24
 
 ## Actionable Items Q1 2025
 
-> More information will be shared at the ThreeFold V4 launch on 12.12.24
+> More information will be shared at the ThreeFold Web4 launch on 12.12.24
 
 ## Governance
 
-> More information will be shared at the ThreeFold V4 launch on 12.12.24
+> More information will be shared at the ThreeFold Web4 launch on 12.12.24
 
 ## The Internet as Hope for Humanity
 

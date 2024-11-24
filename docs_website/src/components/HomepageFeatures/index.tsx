@@ -22,7 +22,7 @@ const FeatureList: FeatureItem[] = [
   },
   { scale: 1.0,
     fill:"currentColor",
-    title: 'Mycelium Network',
+    title: 'ThreeFold Grid',
     Svg: require('@site/static/img/nodes.svg').default,
     description: (
       <>
