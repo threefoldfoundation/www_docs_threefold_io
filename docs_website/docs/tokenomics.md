@@ -48,7 +48,7 @@ ThreeFold is now entering the **expansion phase** of the grid, aiming to grow to
 ThreeFold V4, powered by INCA, represents a transformative step toward a decentralized, scalable, and resilient future for the Internet. Together, we are building the foundation for **Web4**.
 
 
-## Basics of the tokenomics
+## Basics of the Tokenomics
 
 ### Distribution
 

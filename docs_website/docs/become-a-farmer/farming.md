@@ -6,7 +6,7 @@ sidebar_position: 1
 
 ![](become_farmer.png)
 
-> Become a contributor of Storage, Compute & Network capacity to the ThreeFold Network.
+> Become a contributor of storage, compute & network capacity to the ThreeFold Grid.
 
 ThreeFold Farming is a unique concept in the ThreeFold ecosystem where individuals, called farmers, can:
 

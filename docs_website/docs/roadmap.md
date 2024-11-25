@@ -12,20 +12,20 @@ ThreeFold is on its way to build Web4, the natural evolution of the Internet, wh
 
 To achieve this, ThreeFold is building a self-healing data, network and cloud ecosystem composed of phones, routers and nodes. This platform is a complete and cohesive system providing a viable and efficient alternative to current mainstream clouds. 
 
-## On our Way to Web4
+## On Our Way to Web4
 
-ThreeFold has accomplished so much over the years, we are currently in the fourth phase of the grid, making significant progress towards building a viable alternative to mainstream centralized internet and cloud services.
+ThreeFold has accomplished so much over the years: we are currently in the fourth phase of the grid, making significant progress towards building a viable alternative to mainstream centralized internet and cloud services.
 
 - We are building a decentralized sovereign alternative to today's centralized Internet model.
 - We are making significant progress towards realizing this vision. We present here the currently available features and the features that will be available in a near future.
 
-Currently, the ThreeFold grid is in more than 50 countries with thousands of nodes online providing data, network and cloud resources to users as a working Proof of Concept. 
+Currently, the ThreeFold Grid is in more than 50 countries with thousands of nodes online providing data, network and cloud resources to users as a working proof of concept. 
 
 ThreeFold will be announcing more Web4 features on 12.12.24.
 
 | Status    | System Component |
 |-----------|--------------|
-| ✓ Completed | ThreeFold Infrastructure Layer for web 2..3..4 |
+| ✓ Completed | ThreeFold Infrastructure Layer for Web 2, 3 and 4 |
 | ✓ Completed | ThreeFold Dashboard |
 | ✓ Completed | ThreeFold Connect |
 | ✓ Completed | ThreeFold Nodes |
