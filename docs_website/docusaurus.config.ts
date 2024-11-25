@@ -75,6 +75,16 @@ const config: Config = {
 
   themeConfig: {
 
+    algolia: {
+      // The application ID provided by Algolia
+      appId: 'ARAM4VJG2D',
+
+      // Public API key: it is safe to commit it
+      apiKey: '674fd2945f4e534903ff074723bd20be',
+
+      indexName: 'threefold',
+
+    },
 
     colorMode: {
       defaultMode: 'dark',
