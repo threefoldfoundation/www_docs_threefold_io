@@ -26,7 +26,7 @@ Farmers generate INternet CApacity and earn INCA tokens:
 The **INCA token** allows anyone, anywhere, to access the ThreeFold ecosystem. 
 
 - **ThreeFold V4** is a self-healing data, network, and cloud Internet infrastructure laying the foundation for Web4. 
-- It is composed of nodes, routers, and phones, all connected over the **ThreeFold Grid**, an end-to-end encrypted network that works with, and in parallel to, the current Internet.
+- It is composed of nodes, routers, and phones, all connected to the **ThreeFold Network** and compatible with the current Internet.
 
 ### Expansion Phase of the Grid
 

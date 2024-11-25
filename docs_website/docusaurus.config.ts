@@ -128,8 +128,8 @@ const config: Config = {
               to: '/docs/roadmap',
             },
             {
-              label: 'References',
-              to: '/docs/category/references',
+              label: 'Manual',
+              to: 'https://manual.grid.tf/',
             },
           ],
         },
@@ -141,12 +141,8 @@ const config: Config = {
               to: '/docs/category/become-a-farmer',
             },
             {
-              label: 'Phones',
-              to: '/docs/phones',
-            },
-            {
-              label: 'Routers',
-              to: '/docs/routers',
+              label: 'Tech',
+              to: '/docs/tech',
             },
             {
               label: 'Tokenomics',
