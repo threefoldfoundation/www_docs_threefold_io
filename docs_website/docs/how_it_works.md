@@ -61,6 +61,11 @@ The ThreeFold Grid aims to create a more sovereign, efficient, and evolutive Int
 > Join the grid and build with us! There are many ways to contribute and interact on the grid. 
 > More information will be shared at the launch of ThreeFold V4 on **12.12.24**.
 
+## The Process
+
+- Farmers deploy nodes to the ThreeFold Grid providing data, network and cloud resources
+- Resources are verified via the **Proof-of-Capacity** minting protocol and made available for workload deployments
+- Users can rent data, network and cloud resources directly through the network via the **Proof-of-Utilization** payment protocol
 
 ## Unique Value Propositions
 
@@ -75,28 +80,10 @@ With a *planet and people-first* philosophy, ThreeFold proposes a new way forwar
 5. **Community-driven**: Changes and enhancements to the grid voted by the TFDAO
 
 
+
 ## Technical Foundation
 
-![](img/threefold_parts.png)
+Threefold has developed an extensive technology platform to make web4 possible.
 
-ThreeFold has built core technologies over the years.
-
-- Zero-OS: Custom lightweight operating system for nodes built on the Linux kernel
-  - Self-healing and automated resource management via bare metal ThreeFold nodes
-- ThreeFold Grid: End-to-end encrypted network always using the shortest path
-- Quantum Safe Storage resistant to quantum computer attacks and data can never be lost.
-- Hero Agent (v4): Ready to build the apps of the future in full compatibility with web3. 
-- Smart Contract for IT: Blockchain-based resource allocation with signed contracts.
-  - Secure, transparent transaction mechanisms for deployment of solutions on the ThreeFold Grid.
-
-![](img/zos.png)
-
-> see [https://dev2.threefold.io/what/](https://dev2.threefold.io/what/)
-
-### Process
-
-- Farmers deploy nodes to the ThreeFold Grid providing data, network and cloud resources
-- Resources are verified via the **Proof-of-Capacity** minting protocol and made available for workload deployments
-- Users can rent data, network and cloud resources directly through the network via the **Proof-of-Utilization** payment protocol
-
+> See our tech section [Technology](tech.md)
 

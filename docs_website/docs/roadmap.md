@@ -38,4 +38,4 @@ ThreeFold will be announcing more Web4 features on 12.12.24.
 | 🔄 Announce - 12.12.24 | Web4 Router  |
 | 🔄 Announce - 12.12.24 | Web4 Development Platform  |
 
-> [https://dev2.threefold.io/action/](https://dev2.threefold.io/action)
+> [https://threefold.io/action/](https://threefold.io/action)

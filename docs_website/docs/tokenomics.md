@@ -4,11 +4,29 @@ sidebar_position: 7
 
 # Tokenomics
 
-![](img/threefold_parts.png)
+![](img/inca_tokens.png)
 
-## INCA
+INCA is our utility like token empowering our ThreeFold grid.
 
-The **INCA token** allows anyone, anywhere, to access the ThreeFold ecosystem. **ThreeFold V4** is a self-healing data, network, and cloud Internet infrastructure laying the foundation for Web4. It is composed of nodes, routers, and phones, all connected over the **ThreeFold Grid**, an end-to-end encrypted network that works with, and in parallel to, the current Internet.
+Users use INCA tokens to deploy web solutions on top of the ThreeFold grid
+
+- compatible with any web2, web3 and web4 solution
+- [more info see here](use.md)
+
+Farmers generate INternet CApacity and earn INCA tokens:
+
+- Proof of Capacity: 
+  - rewards are available upto 40m INCA per month to reward Farmers to deploy capacity on strategic locations
+- Proof of Utilization: 
+  - 80% of the INCA as used to buy the Internet Capacity goes to Farmers and their Farming Pools.
+
+
+## INCA = **IN**ternet **CA**pacity
+
+The **INCA token** allows anyone, anywhere, to access the ThreeFold ecosystem. 
+
+- **ThreeFold V4** is a self-healing data, network, and cloud Internet infrastructure laying the foundation for Web4. 
+- It is composed of nodes, routers, and phones, all connected over the **ThreeFold Grid**, an end-to-end encrypted network that works with, and in parallel to, the current Internet.
 
 ### Expansion Phase of the Grid
 
