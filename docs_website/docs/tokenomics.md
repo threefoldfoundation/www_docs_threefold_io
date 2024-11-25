@@ -70,7 +70,7 @@ pie
 
 ## INCA Token
 
-The ThreeFold INCA tokenomics for the ThreeFold Grid 4.0 has been designed to promote a thriving ecosystem of cloud users, farmers, and validators. It presents a robust liquidity strategy that ensures seamless transfers and secure transactions within our cloud marketplace. Furthermore, by allocating 40 million tokens for farming grants, we're empowering individuals and organizations to contribute to the grid's growth and development.
+The ThreeFold INCA tokenomics for the ThreeFold Grid 4.0 has been designed to promote an active ecosystem of cloud users, farmers, and validators. It presents a robust liquidity strategy that ensures seamless transfers and secure transactions within our cloud marketplace. Furthermore, by allocating 40 million tokens per month (averaged out) for farming grants, we're empowering individuals and organizations to contribute to the grid's growth and development.
 
 The proof-of-utilization rewards are distributed in a simpler manner:
 
