@@ -33,7 +33,7 @@ export default function Home(): JSX.Element {
   return (
     <Layout
       title={`Home`}
-      description="Self-Healing Data & Cloud Network">
+      description="ThreeFold is building a self-healing data, network and cloud Internet infrastructure laying the foundation for Web4.">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

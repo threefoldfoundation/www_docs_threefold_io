@@ -2,7 +2,7 @@
 sidebar_position: 8
 ---
 
-# Litepaper (draft)
+# Litepaper
 
 > *ThreeFold is building a self-healing data, network and cloud Internet infrastructure laying the foundation for Web4.*
 

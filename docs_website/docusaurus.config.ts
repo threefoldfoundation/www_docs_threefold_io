@@ -92,7 +92,7 @@ const config: Config = {
       respectPrefersColorScheme: false,
     },
     // Replace with your project's social card
-    image: 'img/threefold-social-card.png',
+    image: 'img/favicon.png',
     navbar: {
       title: '',
       logo: {
