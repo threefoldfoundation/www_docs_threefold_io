@@ -36,7 +36,7 @@ ThreeFold is now entering the **expansion phase** of the grid, aiming to grow to
 - Our new token, **INCA**, continues TFT's legacy. Each TFT can be converted into INCA on a **1:1 basis**, with **vesting over 18 months**.
 - **INCA** is our **DePIN token** (Decentralized Physical Infrastructure Network) that will fund the expansion to a planetary scale.
 
-> **Note:** The current TFT is only available on Stellar and Binance Smart Chain, with low liquidity and market cap. It has not been actively promoted and reflects the foundational work of the existing ThreeFold Community. **INCA**, however, serves as our launch token for potentially one of the largest and most meaningful projects in the DePIN space.
+> **Note:** Currently, TFT is available on Stellar, Ethereum and BNB Smart Chain. The liquidity and the market cap of TFT are low. While it has not been actively promoted, it reflects the foundational work of the existing ThreeFold Community. **INCA** serves as our launch token for potentially one of the largest and most meaningful projects in the DePIN space.
 
 ### Technology and Tokenomics
 
