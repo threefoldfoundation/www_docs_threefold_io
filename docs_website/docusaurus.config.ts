@@ -7,24 +7,12 @@ const config: Config = {
   tagline: 'Self-Healing Data & Cloud Network',
   favicon: 'img/favicon.png',
 
-  // Set the production url of your site here
-  url: 'https://docs.projectmycelium.io',
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '',
-
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'git.ourworld.tf/tfgrid', // Usually your GitHub org/user name.
-  projectName: 'www_docs_threefold_io', // Usually your repo name.
-  trailingSlash: false,
+  url: 'https://docs.threefold.io',
+  baseUrl: '/',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
-  // Even if you don't use internationalization, you can use this field to set
-  // useful metadata like html lang. For example, if your site is Chinese, you
-  // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
@@ -36,8 +24,6 @@ const config: Config = {
       {
         docs: {
           sidebarPath: './sidebars.ts',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
         },
         blog: {
           showReadingTime: true,
@@ -45,9 +31,6 @@ const config: Config = {
             type: ['rss', 'atom'],
             xslt: true,
           },
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
           onUntruncatedBlogPosts: 'warn',
@@ -76,14 +59,9 @@ const config: Config = {
   themeConfig: {
 
     algolia: {
-      // The application ID provided by Algolia
       appId: 'ARAM4VJG2D',
-
-      // Public API key: it is safe to commit it
       apiKey: '674fd2945f4e534903ff074723bd20be',
-
       indexName: 'threefold',
-
     },
 
     colorMode: {
@@ -91,7 +69,6 @@ const config: Config = {
       disableSwitch: true,
       respectPrefersColorScheme: false,
     },
-    // Replace with your project's social card
     image: 'img/favicon.png',
     navbar: {
       title: '',
