@@ -19,7 +19,7 @@ The grid is a decentralized Web4 infrastructure layer which allows us to build W
 
 ### Farmers (Cloud Providers)
 
-![](become-a-farmer/become_farmer.png)
+![](./img/become_farmer.png)
 
 - Individual and commercial farmers connect hardware capacity to the ThreeFold Grid and earn rewards for doing so.
 - Over the next years, millions of nodes will be connected to the existing network. [Check the ThreeFold Dashboard](https://dashboard.grid.tf).

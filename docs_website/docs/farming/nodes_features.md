@@ -1,7 +1,7 @@
 ---
 title: Features
 description: Data, Storage and Cloud Node
-sidebar_position: 1
+sidebar_position: 2
 ---
 
 The ThreeFold Nodes are self-healing and autonomous. They provide data, network and cloud resources to the ThreeFold Platform, and you get rewards for hosting them. Not only that, but each node provides a perfect mix of modern technology and carefully crafted design:

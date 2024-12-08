@@ -7,7 +7,7 @@ sidebar_position: 6
 ![](img/threefold_parts.png)
 
 
-ThreeFold delivers the plumbing layer for a better Internet which has the potential to achieve [Augmented Collective Intelligence](https://www.supermind.design/). We call such a system **Web4**.
+ThreeFold delivers the plumbing layer for a better Internet which has the potential to achieve Augmented Collective Intelligence[^1]. We call such a system **Web4**.
 
 > *ThreeFold might be the only platform in the world providing Web4 Network, Data and Cloud Capabilities in one system.*
 
@@ -51,3 +51,7 @@ The following are the required components to make all this possible:
   - Secure, transparent transaction mechanisms for deployment of solutions on the ThreeFold Grid.
 
 > For more information, read the [ThreeFold Tech ebook](https://threefold.info/tech).
+
+---
+
+[^1]: [Augmented Collective Intelligence - Supermind](https://www.supermind.design/)

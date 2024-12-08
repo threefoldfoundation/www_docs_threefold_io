@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Introduction
 
-![](become-a-farmer/become_farmer.png)
+![](./img/become_farmer.png)
 
 ---
 

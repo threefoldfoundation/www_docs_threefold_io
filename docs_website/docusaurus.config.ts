@@ -80,9 +80,15 @@ const config: Config = {
       items: [
         {
           type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
+          sidebarId: 'learnSidebar',
           position: 'left',
-          label: 'Docs',
+          label: 'Learn',
+        },
+        {
+          type: 'docSidebar',
+          sidebarId: 'farmingSidebar',
+          position: 'left',
+          label: 'Farm',
         },
         {
           to: '/support',
@@ -104,19 +110,19 @@ const config: Config = {
           items: [
             {
               label: 'Introduction',
-              to: '/docs/introduction',
+              to: '/docs/learn/introduction',
             },
             {
               label: 'Litepaper',
-              to: '/docs/litepaper',
+              to: '/docs/learn/litepaper',
             },
             {
               label: 'Roadmap',
-              to: '/docs/roadmap',
+              to: '/docs/learn/roadmap',
             },
             {
               label: 'Manual',
-              to: 'https://manual.grid.tf/',
+              href: 'https://manual.grid.tf/',
             },
           ],
         },
@@ -125,15 +131,15 @@ const config: Config = {
           items: [
             {
               label: 'Become a Farmer',
-              to: '/docs/category/become-a-farmer',
+              to: '/docs/farming',
             },
             {
               label: 'Tech',
-              to: '/docs/tech',
+              to: '/docs/learn/tech',
             },
             {
               label: 'Tokenomics',
-              to: '/docs/tokenomics',
+              to: '/docs/learn/tokenomics',
             },            
           ],
         },
